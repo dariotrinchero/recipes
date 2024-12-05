@@ -13,7 +13,7 @@ Unusual Ingredients:
   - wood chips
 Vegan: true
 tags:
-  - recipe/sandwich
+  - sandwich
 ---
 # Ingredients
 

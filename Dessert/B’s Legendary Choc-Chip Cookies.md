@@ -11,7 +11,7 @@ Unusual Ingredients:
   - caster sugar
 Vegan: false
 tags:
-  - recipe/dessert
+  - dessert
 ---
 # Ingredients
 

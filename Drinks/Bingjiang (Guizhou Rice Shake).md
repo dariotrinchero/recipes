@@ -13,7 +13,7 @@ Unusual Ingredients:
   - rose buds
 Vegan: true
 tags:
-  - "#recipe/drink"
+  - "#drink"
 ---
 # Ingredients
 

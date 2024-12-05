@@ -13,8 +13,8 @@ Unusual Ingredients:
   - fresh oreganum
 Vegan: false
 tags:
-  - "#recipe/bread"
-  - recipe/galette
+  - "#bread"
+  - galette
 ---
 ![[Pear, Mint, Tomato & Goat’s Cheese Galette.png]]
 # Ingredients

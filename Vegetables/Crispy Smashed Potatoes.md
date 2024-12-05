@@ -9,9 +9,9 @@ Servings: 3-4
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - "#recipe/snack"
-  - recipe/component
-  - recipe/vegetables
+  - "#snack"
+  - component
+  - vegetables
 ---
 # Ingredients
 

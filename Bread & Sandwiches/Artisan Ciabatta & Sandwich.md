@@ -10,8 +10,8 @@ Servings: 2-3
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - "#recipe/bread"
-  - "#recipe/sandwich"
+  - "#bread"
+  - "#sandwich"
 ---
 # Ingredients
 
@@ -53,5 +53,5 @@ tags:
 
 # Notes
 
-- #todo/cooking compare this recipe to [[Ciabatta]].
+- #todo compare this recipe to [[Ciabatta]].
 - Leftover bread can be used for [[Panzanella]].

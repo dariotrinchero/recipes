@@ -11,8 +11,8 @@ Unusual Ingredients:
   - berbere
 Vegan: true
 tags:
-  - "#recipe/stew"
-  - "#recipe/curry"
+  - "#stew"
+  - "#curry"
 ---
 # Ingredients
 

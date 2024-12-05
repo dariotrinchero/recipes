@@ -13,11 +13,11 @@ Unusual Ingredients:
   - tahini
 Vegan: true
 tags:
-  - recipe/condiment
-  - recipe/component
-  - recipe/sauce
-  - recipe/untried
-  - todo/cooking
+  - condiment
+  - component
+  - sauce
+  - untried
+  - todo
 ---
 # Ingredients
 

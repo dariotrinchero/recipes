@@ -10,10 +10,10 @@ Servings: large bottle
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/condiment
-  - recipe/sauce
-  - recipe/component
-  - todo/cooking
+  - condiment
+  - sauce
+  - component
+  - todo
 ---
 # Ingredients
 

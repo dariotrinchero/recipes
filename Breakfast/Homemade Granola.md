@@ -11,9 +11,9 @@ Unusual Ingredients:
   - nuts
 Vegan: true
 tags:
-  - recipe/breakfast
-  - "#recipe/untried"
-  - "#todo/cooking"
+  - breakfast
+  - "#untried"
+  - "#todo"
 ---
 # Ingredients
 

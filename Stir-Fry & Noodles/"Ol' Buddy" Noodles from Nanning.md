@@ -12,8 +12,8 @@ Unusual Ingredients:
   - bamboo shoots
 Vegan: true
 tags:
-  - recipe/noodles
-  - recipe/untried
+  - noodles
+  - untried
 ---
 # Ingredients
 

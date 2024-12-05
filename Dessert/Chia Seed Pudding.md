@@ -10,7 +10,7 @@ Unusual Ingredients:
   - chia seeds
 Vegan: true
 tags:
-  - recipe/dessert
+  - dessert
 ---
 # Ingredients
 

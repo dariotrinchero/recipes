@@ -12,8 +12,8 @@ Unusual Ingredients:
   - cream cheese
 Vegan: false
 tags:
-  - recipe/dessert
-  - recipe/cake
+  - dessert
+  - cake
 ---
 # Ingredients
 
@@ -47,5 +47,5 @@ tags:
 # Notes
 
 - A berry coulis on this is amazing.
-- #todo/cooking Compare this to [Hellen Rennie's recipe](https://youtu.be/vUwzdJhqp4g).
+- #todo Compare this to [Hellen Rennie's recipe](https://youtu.be/vUwzdJhqp4g).
 - A good similarly-rich and luxurious alternative to the [[Chocolate Mousse (Cake)]].

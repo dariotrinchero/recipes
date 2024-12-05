@@ -13,8 +13,8 @@ Unusual Ingredients:
   - nigella seeds
 Vegan: true
 tags:
-  - recipe/curry
-  - "#recipe/soup"
+  - curry
+  - "#soup"
 ---
 # Ingredients
 

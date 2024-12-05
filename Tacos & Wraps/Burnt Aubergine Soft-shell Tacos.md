@@ -13,8 +13,8 @@ Unusual Ingredients:
   - fresh parsley
 Vegan: false
 tags:
-  - "#recipe/wrap"
-  - recipe/mexican
+  - "#wrap"
+  - mexican
 ---
 # Ingredients
 

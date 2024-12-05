@@ -11,7 +11,7 @@ Unusual Ingredients:
   - pomegranate molasses
 Vegan: false
 tags:
-  - recipe/salad
+  - salad
 ---
 # Ingredients
 

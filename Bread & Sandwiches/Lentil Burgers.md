@@ -9,7 +9,7 @@ Unusual Ingredients:
   - egg whites
 Vegan: false
 tags:
-  - recipe/burger
+  - burger
 ---
 # Ingredients
 

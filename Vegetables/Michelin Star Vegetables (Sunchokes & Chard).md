@@ -13,10 +13,10 @@ Unusual Ingredients:
   - chard
 Vegan: false
 tags:
-  - "#recipe/untried"
-  - "#todo/cooking"
-  - "#recipe/sauce"
-  - "#recipe/vegetables"
+  - "#untried"
+  - "#todo"
+  - "#sauce"
+  - "#vegetables"
 ---
 # Ingredients
 

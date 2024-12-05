@@ -17,9 +17,9 @@ Unusual Ingredients:
   - maitake
 Vegan: true
 tags:
-  - "#recipe/noodles"
-  - recipe/soup
-  - "#todo/cooking"
+  - "#noodles"
+  - soup
+  - "#todo"
 ---
 # Ingredients
 
@@ -89,5 +89,5 @@ tags:
 
 # Notes
 
-- #todo/cooking Compare with the more basic miso ramen in East by Meera Sohla.
+- #todo Compare with the more basic miso ramen in East by Meera Sohla.
 - Shichimi togarashi is a Japanese seven-spice blend that can be found in Japanese markets. If unavailable, substitute with 2 1/2 teaspoons chile powder and 1 teaspoon roasted sesame seeds

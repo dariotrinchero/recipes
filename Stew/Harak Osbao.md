@@ -15,8 +15,8 @@ Unusual Ingredients:
   - tamarind
 Vegan: true
 tags:
-  - "#recipe/stew"
-  - recipe/pasta
+  - "#stew"
+  - pasta
 ---
 # Ingredients
 

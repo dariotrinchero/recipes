@@ -12,9 +12,9 @@ Unusual Ingredients:
   - kasuri methi
 Vegan: false
 tags:
-  - recipe/curry
-  - todo/cooking
-  - recipe/untried
+  - curry
+  - todo
+  - untried
 ---
 # Ingredients
 

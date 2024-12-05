@@ -10,9 +10,9 @@ Unusual Ingredients:
   - parmesan
 Vegan: true
 tags:
-  - recipe/soup
-  - recipe/untried
-  - todo/cooking
+  - soup
+  - untried
+  - todo
 ---
 ![[Minestrone Soup.png]]
 # Ingredients

@@ -10,8 +10,8 @@ Unusual Ingredients:
   - semolina
 Vegan: true
 tags:
-  - "#recipe/pizza"
-  - "#recipe/component"
+  - "#pizza"
+  - "#component"
 ---
 # Ingredients
 

@@ -9,8 +9,8 @@ Servings: 6-8
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - recipe/dessert
-  - recipe/cake
+  - dessert
+  - cake
 ---
 # Ingredients
 

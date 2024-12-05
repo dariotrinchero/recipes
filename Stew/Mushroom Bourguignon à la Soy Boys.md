@@ -12,8 +12,8 @@ Unusual Ingredients:
   - agar-agar
 Vegan: true
 tags:
-  - "#recipe/untried"
-  - "#recipe/stew"
+  - "#untried"
+  - "#stew"
 ---
 # Ingredients
 
@@ -54,4 +54,4 @@ tags:
 
 # Notes
 
-- #todo/cooking compare this version to [[Mushroom Bourguignon With Potato Cauliflower Mash]]
+- #todo compare this version to [[Mushroom Bourguignon With Potato Cauliflower Mash]]

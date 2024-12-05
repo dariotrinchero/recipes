@@ -12,8 +12,8 @@ Unusual Ingredients:
   - sundried tomatoes
 Vegan: true
 tags:
-  - todo/cooking
-  - recipe/pasta
+  - todo
+  - pasta
 ---
 # Ingredients
 

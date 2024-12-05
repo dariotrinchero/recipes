@@ -11,8 +11,8 @@ Unusual Ingredients:
   - sprouts
 Vegan: true
 tags:
-  - recipe/stir-fry
-  - recipe/noodles
+  - stir-fry
+  - noodles
 ---
 # Ingredients
 

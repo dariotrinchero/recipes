@@ -13,8 +13,8 @@ Unusual Ingredients:
   - vermicelli
 Vegan: true
 tags:
-  - recipe/soup
-  - recipe/curry
+  - soup
+  - curry
 ---
 # Ingredients
 

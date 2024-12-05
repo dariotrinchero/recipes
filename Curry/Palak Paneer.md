@@ -10,7 +10,7 @@ Unusual Ingredients:
   - paneer
 Vegan: true
 tags:
-  - recipe/curry
+  - curry
 ---
 # Ingredients
 

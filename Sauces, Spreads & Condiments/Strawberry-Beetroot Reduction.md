@@ -10,8 +10,8 @@ Unusual Ingredients:
   - strawberries
 Vegan: true
 tags:
-  - "#recipe/sauce"
-  - recipe/component
+  - "#sauce"
+  - component
 ---
 # Ingredients
 

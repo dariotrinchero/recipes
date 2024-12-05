@@ -10,8 +10,8 @@ Servings: 2-4
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - "#recipe/wrap"
-  - recipe/mexican
+  - "#wrap"
+  - mexican
 ---
 # Ingredients
 

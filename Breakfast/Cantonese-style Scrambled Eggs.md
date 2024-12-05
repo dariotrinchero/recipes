@@ -8,7 +8,7 @@ Servings: 1-2
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - recipe/breakfast
+  - breakfast
 ---
 # Ingredients
 

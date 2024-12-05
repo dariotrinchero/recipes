@@ -13,8 +13,8 @@ Unusual Ingredients:
   - aquafaba
 Vegan: true
 tags:
-  - recipe/bread
-  - recipe/dessert
+  - bread
+  - dessert
 ---
 # Ingredients
 

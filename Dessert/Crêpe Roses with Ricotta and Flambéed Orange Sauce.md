@@ -11,9 +11,9 @@ Unusual Ingredients:
   - grand marnier
 Vegan: false
 tags:
-  - recipe/untried
-  - todo/cooking
-  - recipe/dessert
+  - untried
+  - todo
+  - dessert
 ---
 # Ingredients
 

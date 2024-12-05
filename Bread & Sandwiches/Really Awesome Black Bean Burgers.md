@@ -8,7 +8,7 @@ Servings: 6-8
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - recipe/burger
+  - burger
 ---
 # Ingredients
 

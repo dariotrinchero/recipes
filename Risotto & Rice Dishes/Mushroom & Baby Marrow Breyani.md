@@ -10,8 +10,8 @@ Servings: "3"
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - "#recipe/rice-dish"
-  - recipe/curry
+  - "#rice-dish"
+  - curry
 ---
 # Ingredients
 

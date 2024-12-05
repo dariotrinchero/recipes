@@ -11,9 +11,9 @@ Servings: enough caramelised onion for ~20 meals
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/component
-  - todo/cooking
-  - recipe/untried
+  - component
+  - todo
+  - untried
 ---
 # Ingredients
 

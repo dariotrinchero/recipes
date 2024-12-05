@@ -9,8 +9,8 @@ Servings: 15 small squares
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/dessert
-  - recipe/untried
+  - dessert
+  - untried
 ---
 # Ingredients
 

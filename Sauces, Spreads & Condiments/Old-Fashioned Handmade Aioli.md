@@ -12,8 +12,8 @@ Unusual Ingredients:
   - tarragon
 Vegan: false
 tags:
-  - recipe/condiment
-  - recipe/sauce
+  - condiment
+  - sauce
 ---
 # Ingredients
 

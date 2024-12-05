@@ -12,7 +12,7 @@ Unusual Ingredients:
   - fresh basil
 Vegan: false
 tags:
-  - "#recipe/salad"
+  - "#salad"
 ---
 # Ingredients
 

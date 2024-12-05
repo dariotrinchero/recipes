@@ -12,9 +12,9 @@ Unusual Ingredients:
   - fresh parsley
 Vegan: true
 tags:
-  - recipe/untried
-  - "#todo/cooking"
-  - recipe/soup
+  - untried
+  - "#todo"
+  - soup
 ---
 # Ingredients
 
@@ -72,4 +72,4 @@ tags:
 
 # Notes
 
-- #todo/cooking Compare with [[Middle Eastern Red Lentil Soup]], which I think has a similar flavour profile.
+- #todo Compare with [[Middle Eastern Red Lentil Soup]], which I think has a similar flavour profile.

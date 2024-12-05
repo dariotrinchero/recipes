@@ -10,7 +10,7 @@ Unusual Ingredients:
   - peanuts
 Vegan: true
 tags:
-  - recipe/salad
+  - salad
 ---
 # Ingredients
 

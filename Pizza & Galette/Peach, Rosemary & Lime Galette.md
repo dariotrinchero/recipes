@@ -13,10 +13,10 @@ Unusual Ingredients:
   - creme fraiche
 Vegan: false
 tags:
-  - recipe/galette
-  - "#recipe/ottolenghi"
-  - "#recipe/untried"
-  - todo/cooking
+  - galette
+  - "#ottolenghi"
+  - "#untried"
+  - todo
 ---
 # Ingredients
 

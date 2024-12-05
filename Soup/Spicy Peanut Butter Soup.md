@@ -10,7 +10,7 @@ Servings: 2-3
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/soup
+  - soup
 ---
 # Ingredients
 

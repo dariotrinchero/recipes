@@ -16,9 +16,9 @@ Unusual Ingredients:
   - fresh basil
 Vegan: true
 tags:
-  - "#recipe/pasta"
-  - "#recipe/braise"
-  - "#recipe/rice-dish"
+  - "#pasta"
+  - "#braise"
+  - "#rice-dish"
 ---
 # Ingredients
 

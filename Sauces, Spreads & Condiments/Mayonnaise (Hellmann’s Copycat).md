@@ -10,7 +10,7 @@ Servings: N/A
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - recipe/sauce
+  - sauce
 ---
 # Ingredients
 

@@ -12,9 +12,9 @@ Unusual Ingredients:
   - Kashmiri chilli powder
 Vegan: true
 tags:
-  - recipe/rice-dish
-  - todo/cooking
-  - recipe/untried
+  - rice-dish
+  - todo
+  - untried
 ---
 ![[Confit tandoori chickpeas.png]]
 # Ingredients

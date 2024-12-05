@@ -10,7 +10,7 @@ Servings: 3-4
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/curry
+  - curry
 ---
 # Ingredients
 

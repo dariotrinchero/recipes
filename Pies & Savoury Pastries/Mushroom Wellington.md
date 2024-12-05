@@ -13,9 +13,9 @@ Unusual Ingredients:
   - walnuts
 Vegan: true
 tags:
-  - "#recipe/pastry"
-  - "#recipe/pie"
-  - todo/cooking
+  - "#pastry"
+  - "#pie"
+  - todo
 ---
 # Ingredients
 

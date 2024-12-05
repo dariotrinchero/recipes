@@ -12,8 +12,8 @@ Unusual Ingredients:
   - sauerkraut
 Vegan: true
 tags:
-  - recipe/soup
-  - recipe/untried
+  - soup
+  - untried
 ---
 # Ingredients
 

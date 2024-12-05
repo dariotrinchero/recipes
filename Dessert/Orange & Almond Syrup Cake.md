@@ -13,8 +13,8 @@ Unusual Ingredients:
   - oranges
 Vegan: false
 tags:
-  - recipe/dessert
-  - "#recipe/cake"
+  - dessert
+  - "#cake"
 ---
 # Ingredients
 

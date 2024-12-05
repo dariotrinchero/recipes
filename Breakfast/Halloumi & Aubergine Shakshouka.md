@@ -12,7 +12,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - "#recipe"
-  - recipe/breakfast
+  - breakfast
 ---
 # Ingredients
 

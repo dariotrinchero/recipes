@@ -10,7 +10,7 @@ Unusual Ingredients:
   - evaporated milk
 Vegan: false
 tags:
-  - recipe/drink
+  - drink
 ---
 # Ingredients
 

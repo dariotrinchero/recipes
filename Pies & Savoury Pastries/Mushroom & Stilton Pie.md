@@ -12,7 +12,7 @@ Unusual Ingredients:
   - peppercorns in brine
 Vegan: false
 tags:
-  - "#recipe/pie"
+  - "#pie"
 ---
 # Ingredients
 

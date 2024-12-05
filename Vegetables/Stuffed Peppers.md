@@ -9,8 +9,8 @@ Servings: "4"
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - "#recipe/roast"
-  - "#recipe/mexican"
+  - "#roast"
+  - "#mexican"
 ---
 # Ingredients
 

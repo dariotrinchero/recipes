@@ -11,8 +11,8 @@ Unusual Ingredients:
   - plum
 Vegan: false
 tags:
-  - recipe/dessert
-  - recipe/pastry
+  - dessert
+  - pastry
 ---
 # Ingredients
 
@@ -66,4 +66,4 @@ tags:
 # Notes
 
 - Watch the video for many tips, and to see what the dough looks like at each step.
-- #todo/cooking Alternatively, try the custard from [this video](https://www.youtube.com/watch?v=MA4LEjxZ7io).
+- #todo Alternatively, try the custard from [this video](https://www.youtube.com/watch?v=MA4LEjxZ7io).

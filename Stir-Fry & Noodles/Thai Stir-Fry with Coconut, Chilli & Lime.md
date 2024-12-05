@@ -12,7 +12,7 @@ Unusual Ingredients:
   - shiitake
 Vegan: true
 tags:
-  - recipe/stir-fry
+  - stir-fry
 ---
 # Ingredients
 

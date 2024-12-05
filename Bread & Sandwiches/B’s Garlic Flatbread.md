@@ -9,7 +9,7 @@ Servings: 2-3
 Unusual Ingredients: 
 Vegan: true
 tags:
-  - recipe/bread
+  - bread
 ---
 # Ingredients
 

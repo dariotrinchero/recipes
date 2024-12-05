@@ -10,7 +10,7 @@ Unusual Ingredients:
   - gruyere
 Vegan: false
 tags:
-  - recipe/bread
+  - bread
 ---
 # Ingredients
 

@@ -13,7 +13,7 @@ Unusual Ingredients:
   - mozzarella
 Vegan: false
 tags:
-  - recipe/pizza
+  - pizza
 ---
 ![[Kale, taleggio & hot honey pizza.png]]
 # Ingredients

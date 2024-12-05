@@ -10,9 +10,9 @@ Unusual Ingredients:
   - dried chickpeas
 Vegan: true
 tags:
-  - "#recipe/snack"
-  - "#recipe/component"
-  - "#recipe/wrap"
+  - "#snack"
+  - "#component"
+  - "#wrap"
 ---
 # Ingredients
 

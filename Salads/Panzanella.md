@@ -11,7 +11,7 @@ Unusual Ingredients:
   - capers
 Vegan: true
 tags:
-  - "#recipe/salad"
+  - "#salad"
 ---
 # Ingredients
 

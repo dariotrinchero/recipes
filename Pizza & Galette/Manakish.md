@@ -13,9 +13,9 @@ Unusual Ingredients:
   - mozzarella
 Vegan: false
 tags:
-  - recipe/pizza
-  - recipe/bread
-  - recipe/breakfast
+  - pizza
+  - bread
+  - breakfast
 ---
 # Ingredients
 

@@ -14,9 +14,9 @@ Unusual Ingredients:
   - pecans
 Vegan: false
 tags:
-  - recipe/bread
-  - recipe/breakfast
-  - recipe/cake
+  - bread
+  - breakfast
+  - cake
 ---
 # Ingredients
 

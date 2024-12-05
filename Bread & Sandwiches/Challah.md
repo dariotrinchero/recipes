@@ -10,9 +10,9 @@ Servings: 4-6
 Unusual Ingredients: 
 Vegan: false
 tags:
-  - recipe/bread
-  - recipe/breakfast
-  - "#recipe/untried"
+  - bread
+  - breakfast
+  - "#untried"
 ---
 # Ingredients
 

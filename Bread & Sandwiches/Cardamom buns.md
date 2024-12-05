@@ -10,8 +10,8 @@ Unusual Ingredients:
   - caster sugar
 Vegan: false
 tags:
-  - recipe/bread
-  - "#recipe/untried"
+  - bread
+  - "#untried"
 ---
 # Ingredients
 

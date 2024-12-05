@@ -13,9 +13,9 @@ Unusual Ingredients:
   - mozzarella
 Vegan: false
 tags:
-  - recipe/pizza
-  - recipe/untried
-  - todo/cooking
+  - pizza
+  - untried
+  - todo
 ---
 ![[Fennel & chilli-spiced mushroom, basil & ricotta pizza.png]]
 # Ingredients

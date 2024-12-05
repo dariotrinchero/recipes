@@ -12,8 +12,8 @@ Unusual Ingredients:
   - fresh parsley
 Vegan: false
 tags:
-  - recipe/soup
-  - "#recipe/untried"
+  - soup
+  - "#untried"
 ---
 # Ingredients
 

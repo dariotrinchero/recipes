@@ -13,8 +13,8 @@ Unusual Ingredients:
   - za'atar
 Vegan: false
 tags:
-  - "#recipe/wrap"
-  - recipe/mexican
+  - "#wrap"
+  - mexican
 ---
 # Ingredients
 

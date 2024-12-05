@@ -18,9 +18,9 @@ Unusual Ingredients:
   - maple syrup
 Vegan: false
 tags:
-  - "#recipe/risotto"
-  - recipe/snack
-  - recipe/component
+  - "#risotto"
+  - snack
+  - component
 ---
 # Ingredients
 

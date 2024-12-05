@@ -13,8 +13,8 @@ Unusual Ingredients:
   - fresh basil
 Vegan: true
 tags:
-  - "#recipe/soup"
-  - "#recipe/noodles"
+  - "#soup"
+  - "#noodles"
 ---
 # Ingredients
 

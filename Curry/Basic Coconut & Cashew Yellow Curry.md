@@ -11,7 +11,7 @@ Unusual Ingredients:
   - coconut milk
 Vegan: true
 tags:
-  - recipe/curry
+  - curry
 ---
 # Ingredients
 

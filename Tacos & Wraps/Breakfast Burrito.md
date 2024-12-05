@@ -10,8 +10,8 @@ Unusual Ingredients:
   - avo
 Vegan: false
 tags:
-  - "#recipe/wrap"
-  - "#recipe/breakfast"
+  - "#wrap"
+  - "#breakfast"
 ---
 # Ingredients
 
