@@ -6,8 +6,7 @@ Meal type:
 Servings: 
 Unusual Ingredients: 
 Vegan: false
-tags:
-  - recipe
+tags: []
 ---
 # Ingredients
 

@@ -12,6 +12,7 @@ Vegan: true
 tags:
   - "#pizza"
   - "#component"
+  - ottolenghi
 ---
 # Ingredients
 

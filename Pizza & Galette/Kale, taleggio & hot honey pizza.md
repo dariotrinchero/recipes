@@ -14,6 +14,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - pizza
+  - ottolenghi
 ---
 ![[Kale, taleggio & hot honey pizza.png]]
 # Ingredients

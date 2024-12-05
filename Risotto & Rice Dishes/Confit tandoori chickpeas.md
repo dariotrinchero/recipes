@@ -15,6 +15,7 @@ tags:
   - rice-dish
   - todo
   - untried
+  - ottolenghi
 ---
 ![[Confit tandoori chickpeas.png]]
 # Ingredients
