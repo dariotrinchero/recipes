@@ -43,7 +43,7 @@ tags:
 ## To serve
 
 - 20ml olive oil
-- 1 uncooked [[Pizza al taglio base]]
+- 1 uncooked [[Pizza al Taglio Base]]
 - 300g taleggio, or another stretchy cheese such as mozzarella or scamorza, cut into ½cm-thick slices
 
 # Method

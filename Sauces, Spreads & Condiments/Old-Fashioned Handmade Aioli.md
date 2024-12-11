@@ -13,7 +13,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - condiment
-  - sauce
+  - dip
 ---
 # Ingredients
 

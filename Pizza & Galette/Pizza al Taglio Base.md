@@ -33,5 +33,5 @@ tags:
 # Notes
 
 - In particular, used for two Ottolenghi recipes from the same source:
-	1. [[Kale, taleggio & hot honey pizza]] 
-	2. [[Fennel & chilli-spiced mushroom, basil & ricotta pizza]]
+	1. [[Kale, Taleggio, & Hot Honey Pizza]] 
+	2. [[Fennel & Chilli-Spiced Mushroom, Basil, & Ricotta Pizza]]

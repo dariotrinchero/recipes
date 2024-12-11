@@ -44,7 +44,7 @@ tags:
 
 ## To serve
 
-- 1 uncooked [[Pizza al taglio base]]
+- 1 uncooked [[Pizza al Taglio Base]]
 - 20ml olive oil
 - 250g firm mozzarella, drained
 - 200g ricotta

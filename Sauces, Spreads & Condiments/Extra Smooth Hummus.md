@@ -15,9 +15,9 @@ Vegan: true
 tags:
   - condiment
   - component
-  - sauce
   - untried
   - todo
+  - dip
 ---
 # Ingredients
 

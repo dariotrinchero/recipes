@@ -20,8 +20,8 @@ Unusual Ingredients:
   - shiitake
 Vegan: true
 tags:
-  - "#sauce"
   - "#condiment"
+  - dip
 ---
 # Ingredients
 
