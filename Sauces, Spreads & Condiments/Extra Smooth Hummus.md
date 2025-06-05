@@ -1,5 +1,5 @@
 ---
-Source: https://www.youtube.com/watch?v=NbXC0B83S7k
+Source: https://youtu.be/_1KYLNtXNEs
 Cook Time: 1h20m + 1 day soaking time, if using dried chickpeas
 Course:
   - component
@@ -21,13 +21,13 @@ tags:
 ---
 # Ingredients
 
-- 500g Dried Chickpeas (or canned - see Notes)
-- 250g Tahini
-- 70-100g ice
-- 75ml Lemon Juice
-- 2 Tsp Salt
-- 1 Tsp Baking Soda
-- Citric acid (optional)
+- 500g dried chickpeas
+- 1.5-2L water
+- 100g sunflower oil (or 110ml)
+- 450g tahini paste (light colour)
+- 200ml lemon juice
+- 2.5 tsp salt
+- 150-200g ice
 
 ### For Beiruty hummus (optional variant)
 
@@ -53,11 +53,12 @@ tags:
 
 ## To make the hummus
 
- 1. Add your prepared chickpeas to a food processor or blender, and process for 3-4 minutes, scraping down the side of the bowl halfway, until the chickpeas are processed into a super fine paste. If this is lumpy, you need to process longer. Feel it between your fingers and it should be floury
- 2. Add 70g of ice into the food processor, and process into the chickpeas until light and fluffy
- 3. Now add the tahini and mix it in. Then when that has been fully incorporated add the lemon juice
- 4. You can now adjust to your desired acidity/thickness by adding citric acid or more ice
- 5. Store in the fridge for up to a week
+ 1. Add your prepared chickpeas to a food processor or blender, and process for ~5 minutes, scraping down the side of the bowl halfway, until the chickpeas are processed into a super fine paste. If this is lumpy, you need to process longer. Feel it between your fingers and it should be floury.
+ 2. Stream vegetable oil in, while running food processor. Pause and scrape down a few times, and process until even and light in colour.
+ 3. Add tahini and process until evenly mixed.
+ 4. Add lemon juice and salt, and process until evenly mixed.
+ 5.  Add ice piece-by-piece into the food processor, while the machine is running. Stop once the desired texture has been achieved.
+ 6. Store in the fridge for up to a week.
 
 ## To make Beiruty hummus
 

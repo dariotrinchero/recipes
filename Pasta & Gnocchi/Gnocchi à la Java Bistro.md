@@ -26,7 +26,7 @@ tags:
 
 ## Gnocchi sauce
 
-- ~125g portabelini mushrooms, sliced
+- ~125g portabellini mushrooms, sliced
 - thyme, dried or fresh
 - 5 large(ish) brown mushrooms, sliced
 - ~130g rosa tomatoes, halved
@@ -38,7 +38,7 @@ tags:
 
 ## Final dish
 
-- 500g (prior to cooking) gnocchi
+- 500g (prior to cooking) gnocchi; consider making [[Gnocchi from Scratch]] to reduce cost
 - 1 small raw carrot, julienned then sliced into thin strips, for garnish
 - 1/8 small raw red onion, thinly sliced, for garnish
 - pecorino for garnish

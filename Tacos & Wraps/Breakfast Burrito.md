@@ -40,4 +40,4 @@ tags:
 
 # Notes
 
-- None
+- One can use a [[Vegan Mayonnaise|vegan mayonnaise]] in place of ordinary mayonnaise, but I am not sure how to replace the scrambled eggs in a fully vegan version of this dish.

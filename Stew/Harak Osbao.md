@@ -56,7 +56,7 @@ tags:
 8. Change the paper towels after 10 minutes to maintain crispiness
 9. Strain the oil and set it aside
 
-## To make the tamarind
+	## To make the tamarind
 
 1. Break your tamarind block into smaller pieces and place in a bowl
 2. Pour over 1l of boiling water

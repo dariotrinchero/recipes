@@ -30,7 +30,7 @@ tags:
 
 ## Final dish
 
-- 500g (prior to cooking) gnocchi
+- 500g (prior to cooking) gnocchi; consider making [[Gnocchi from Scratch]] to reduce cost
 - parmesan for garnish
 - fresh rocket
 

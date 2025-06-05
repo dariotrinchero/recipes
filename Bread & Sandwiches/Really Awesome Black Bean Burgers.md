@@ -22,7 +22,7 @@ tags:
 - 1/2 cup finely crumbled feta
 - 3/4 cup panko bread crumbs
 - 1 large egg
-- 2 tablespoons mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]])
+- 2 tablespoons mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]] or [[Vegan Mayonnaise]])
 - Kosher salt and freshly ground black pepper
 - Cheese for topping, such as pepper jack, cheddar, muenster, or Swiss (optional)
 - 6 to 8 hearty hamburger buns, toasted
@@ -31,7 +31,7 @@ tags:
 
 # Method
 
-1. Adjust oven rack to center position and preheat oven to 350°F (175°C). Spread black beans in a single layer on a foil-lined rimmed baking sheet. Roast until beans are mostly split open and outer skins are beginning to get crunchy, about 20 minutes. Remove from oven and allow to cool slightly.
+1. Adjust oven rack to centre position and preheat oven to 350°F (175°C). Spread black beans in a single layer on a foil-lined rimmed baking sheet. Roast until beans are mostly split open and outer skins are beginning to get crunchy, about 20 minutes. Remove from oven and allow to cool slightly.
 2. While beans roast, heat 2 tablespoons oil in a medium skillet over medium-high heat until shimmering. Add onion and pepper and cook, stirring frequently, until softened, about 5 minutes. Add garlic and cook, stirring constantly, until fragrant, about 2 minutes. Add chilli and sauce and cook, stirring, until fragrant, about 30 seconds. Transfer mixture to a large bowl.
 3. Caramelise the remaining two onions caramelising in some oil.
 4. Place cashews in the bowl of a food processor and pulse until chopped into pieces no larger than 1/3-inch, about 12 short pulses. Add to bowl with onions and peppers.
@@ -42,3 +42,4 @@ tags:
 # Notes
 
 - Caramelised onions are my own modification to the original recipe. They significantly improve the flavour and structural integrity. 
+- #todo Attempt this recipe with an egg substitute (flax seeds, aquafaba, etc) to obtain a vegan version.

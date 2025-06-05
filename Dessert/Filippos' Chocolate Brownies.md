@@ -46,4 +46,4 @@ Bake at 180 Celsius for 30-35 minutes in a 23cm x 23cm pan - this will depend on
 
 # Notes
 
-- Unlike most other recipes, there is notably **no oil** in this recipe, yet the brownies turn out lovely and fudgey. I think this is because of the ground almonds, most of all.
+- Unlike most other recipes, there is notably **no oil** in this recipe, yet the brownies turn out lovely and fudgey. I think this is because of the ground almonds, most of all. That said, they are not terribly structurally sound, for the selfsame reason.

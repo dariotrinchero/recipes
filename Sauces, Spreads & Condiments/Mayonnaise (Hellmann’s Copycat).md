@@ -11,6 +11,8 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - sauce
+  - component
+  - condiment
 ---
 # Ingredients
 
@@ -35,3 +37,4 @@ tags:
 # Notes
 
 - Beware of the salt measurement. I actually find it better to eyeball a "generous pinch" of salt.
+- For a vegan alternative, consider [[Vegan Mayonnaise]].

@@ -8,7 +8,7 @@ Meal type:
   - rice dish
 Servings: "3"
 Unusual Ingredients: 
-Vegan: false
+Vegan: true
 tags:
   - "#rice-dish"
   - curry
@@ -27,7 +27,7 @@ tags:
 - 4 cardamom pods
 - 1.5 tsp whole cumin
 - 200g+ baby marrow, sliced
-- 120ml+ yogurt
+- 120ml+ yogurt (or vegan substitute)
 - oil for frying
 - salt & pepper
 - lemon juice to serve

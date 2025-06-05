@@ -30,7 +30,7 @@ tags:
 
 ## Sandwich sauce (all ingredients to taste)
 
-- mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]], or vegan replacement)
+- mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]], or [[Vegan Mayonnaise]])
 - splash lemon juice
 - sprinkle of cumin
 - generous pinch black pepper

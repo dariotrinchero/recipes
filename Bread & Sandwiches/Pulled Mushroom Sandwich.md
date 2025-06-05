@@ -22,7 +22,7 @@ tags:
 - 1 each head kale, finely sliced (chiffonade)  
 - 2 each carrots, peeled and grated  
 - 1 each red onion, julienned  
-- 1 cup mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]] or vegan substitute)
+- 1 cup mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]] or [[Vegan Mayonnaise]])
 - 4 tablespoons sugar  
 - ½ cup apple cider vinegar  
 - 1 tablespoon crushed red pepper flakes  
