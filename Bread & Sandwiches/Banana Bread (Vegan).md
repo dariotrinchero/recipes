@@ -9,8 +9,7 @@ Meal type:
   - bread
   - dessert
 Servings: 1 loaf (~10 slices)
-Unusual Ingredients:
-  - aquafaba
+Unusual Ingredients: []
 Vegan: true
 tags:
   - bread

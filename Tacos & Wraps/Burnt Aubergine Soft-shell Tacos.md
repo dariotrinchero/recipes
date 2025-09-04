@@ -59,9 +59,10 @@ tags:
 - 1Tbsp olive oil
 - 125ml water
 
-## To finish
+## To assemble
 
 - Juice from limes
+- [[Soft Taco Shells]]
 
 # Method (parallelisable)
 
@@ -70,10 +71,9 @@ tags:
 3. Make caramelised onions as per [Hellen Rennie](https://youtu.be/kEfJTmf9hDs). Deglaze at the end with balsamic vinegar.
 4. Make crispy chickpeas as per [Internet Shaquille](https://youtu.be/5EU76q3Vf3Q) (microwave until dry, then pan fry until crispy). Salt while hot.
 5. Make gremolata as per [this recipe](https://www.feastingathome.com/gremolata-recipe/) (chop parsley & mix all listed ingredients). Adjust to taste.
-6. For the tacos, mix ingredients, & kneed for ~5min. Rest covered in fridge for ~30min to relax. Divide into 9 equal pieces by mass. Roll each portion into a circle, then lightly toast on each side in a piping hot cast iron (small bubbles should form). As the tacos come off the heat, stack them to keep them warm.
-7. Assemble the tacos, finishing each with a generous squirt of lime juice.
+6. Assemble the tacos, finishing each with a generous squirt of lime juice.
 
 # Notes
 
 - Definitely parallelise the method. For instance, blacken aubergines while caramelising onions.
-- Similar to [[Charred Green Pepper & Sweet Potato Tacos]]
+- This is an instance of the general [[Soft Taco Shells#Blueprint for soft-shell taco fillings|soft-shell taco blueprint]].

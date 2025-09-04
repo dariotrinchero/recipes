@@ -7,9 +7,7 @@ Meal type:
   - sauce
   - staple
 Servings: N/A
-Unusual Ingredients:
-  - aquafaba
-  - nutritional yeast
+Unusual Ingredients: []
 Vegan: true
 tags:
   - condiment
@@ -24,13 +22,7 @@ tags:
 - 2 tsp lemon juice
 - 1/2 tsp sugar + extra to taste
 - neutral oil to emulsify (avoid canola - it leads to a fishy taste)
-
-## Optional flavourings 
-
-- 1 tsp nutritional yeast flakes
-- sprinkle of MSG
-- tiny splash of Maggi Aromé sauce (~1/4 tsp)
-- knife-tip pinch of chilli powder
+- 1/2 tsp [[Imitation Egg Seasoning]] + extra to taste
 
 # Method
 
@@ -39,4 +31,4 @@ tags:
 
 # Notes
 
-- This is a good vegan alternative to [[Mayonnaise (Hellmann’s Copycat)]]; the final texture and flavour is similar.
+- Great alternative to [[Mayonnaise (Hellmann’s Copycat)]]; the texture & flavour is similar.

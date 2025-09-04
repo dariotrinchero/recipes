@@ -34,4 +34,4 @@ tags:
 
 # Notes
 
-- None
+- #todo Try to veganise this by substituting buttermilk for half-half nut milk and vegan yogurt, and eggs for flax-eggs.

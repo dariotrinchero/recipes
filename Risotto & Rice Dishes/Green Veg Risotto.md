@@ -10,7 +10,7 @@ Servings: "4"
 Unusual Ingredients:
   - parmesan
   - fresh parsley
-Vegan: false
+Vegan: true
 tags:
   - "#risotto"
 ---
@@ -25,7 +25,7 @@ tags:
 - 2-3 garlic cloves, crushed
 - zest and juice of 2 small lemons
 - 300g carnaroli or other risotto rice
-- 60g grated Parmesan or vegetarian hard cheese, plus extra to serve
+- 60g grated Parmesan or vegetarian hard cheese, plus extra to serve (substitute for nutritional yeast and optional splash of coconut cream)
 
 # Method
 

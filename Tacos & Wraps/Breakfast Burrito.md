@@ -1,14 +1,15 @@
 ---
 Source: https://www.loveandlemons.com/breakfast-burrito/#wprm-recipe-container-43856
 Cook Time: 1.5h
-Course: main
+Course:
+  - main
 Meal type:
   - breakfast
   - wrap
 Servings: 3-4
 Unusual Ingredients:
   - avo
-Vegan: false
+Vegan: true
 tags:
   - "#wrap"
   - "#breakfast"
@@ -22,7 +23,7 @@ tags:
 - 1 red bell pepper
 - 3 12-inch tortillas
 - 1 cup fresh spinach
-- 9 scrambled eggs
+- 9 scrambled eggs (see Notes for vegan substitution)
 - ¾ cup cooked black beans, drained and rinsed
 - ½ cup pico de gallo
 - 1 ripe avocado
@@ -30,7 +31,7 @@ tags:
 - Sea salt and freshly ground black pepper
 - 1 lime, for squeezing
 - Cilantro Lime Dressing, for dipping
-- [[Mayonnaise (Hellmann’s Copycat)|Mayonnaise]] for spreading on wraps
+- [[Mayonnaise (Hellmann’s Copycat)|Mayonnaise]] for spreading on wraps (see Notes for vegan substitution)
 
 # Method
 
@@ -40,4 +41,4 @@ tags:
 
 # Notes
 
-- One can use a [[Vegan Mayonnaise|vegan mayonnaise]] in place of ordinary mayonnaise, but I am not sure how to replace the scrambled eggs in a fully vegan version of this dish.
+- One can use a [[Vegan Mayonnaise|vegan mayonnaise]] in place of ordinary mayonnaise, and one can replace the scrambled eggs with a tofu scramble incorporating [[imitation egg seasoning]].
