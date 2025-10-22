@@ -2,6 +2,7 @@
 # Recipe Websites
 
 - [Cleobuttera](https://cleobuttera.com/recipes/) (desserts & sweet drinks with Middle-Eastern influence)
+- Playlist of [vegetarian favourites](https://www.youtube.com/playlist?list=PLP7K32dTk0Zn0khGAYBjwopRZnh-tQ5xH) by [W2 KITCHEN](https://www.youtube.com/@w2kitchen) on YouTube
 
 # Untranscribed Recipes
 
@@ -26,7 +27,6 @@
 
 - [ ] [[Mayu with Sesame & Chilli]]
 - [ ] [[Confit Tandoori Chickpeas]]
-- [ ] [[Salted Butter Caramel]]
 - [ ] [[Vegan Lasagne]]
 - [ ] [[Crêpe Roses with Ricotta and Flambéed Orange Sauce]]
 - [ ] [[Mushroom Wellington]] (perhaps with spiced red wine reduction sauce above?)

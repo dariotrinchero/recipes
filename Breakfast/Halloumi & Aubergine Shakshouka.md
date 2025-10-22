@@ -11,7 +11,6 @@ Unusual Ingredients:
   - ras el hanout
 Vegan: false
 tags:
-  - "#recipe"
   - breakfast
 ---
 # Ingredients
