@@ -7,6 +7,7 @@ Course:
 Meal type:
   - tofu
   - snack
+  - meat-replacement
 Servings: 3-4
 Unusual Ingredients:
   - flax powder
@@ -15,6 +16,7 @@ tags:
   - snack
   - crumbed
   - finger-food
+  - meat-replacement
 ---
 # Ingredients
 

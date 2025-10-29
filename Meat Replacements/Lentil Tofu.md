@@ -5,12 +5,14 @@ Course:
   - component
 Meal type:
   - tofu
+  - meat-replacement
 Servings: 3-4
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - stir-fry
   - component
+  - meat-replacement
 ---
 # Ingredients
 
@@ -26,4 +28,4 @@ tags:
 
 # Notes
 
-- This can be used to make [[Crispy Tofu]].
+- This can be used to make [[Crispy Tofu]], but it does not hold up when boiled.

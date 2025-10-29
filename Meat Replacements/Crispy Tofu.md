@@ -5,12 +5,15 @@ Course:
   - component
 Meal type:
   - tofu
+  - meat-replacement
 Servings: 3-4
 Unusual Ingredients:
   - tofu
 Vegan: true
 tags:
   - "#stir-fry"
+  - meat-replacement
+  - component
 ---
 # Ingredients
 
