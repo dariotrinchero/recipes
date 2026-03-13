@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.hasProperty("tags")
+    - '!file.inFolder("Templates")'
+properties:
+  file.name:
+    displayName: Recipe
+  file.folder:
+    displayName: Category
+views:
+  - type: table
+    name: Table
+    order:
+      - file.folder
+      - file.name
+      - Cook Time
+      - Course
+      - Unusual Ingredients
+      - Vegan
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: Course
+        direction: ASC
+      - property: Vegan
+        direction: DESC
+    columnSize:
+      file.folder: 220
+      file.name: 349
+      note.Cook Time: 316
+      note.Course: 242
+      note.Unusual Ingredients: 589
