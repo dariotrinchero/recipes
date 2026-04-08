@@ -29,7 +29,8 @@ tags:
 - 1 Red bell pepper
 - 2 Chillies
 - 2 Cloves garlic
-- 2 Tomatoes Thyme (fresh or dried)
+- 2 Tomatoes 
+- Thyme (fresh or dried)
 - Salt to taste
 - Oil for frying
 

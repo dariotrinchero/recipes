@@ -2,31 +2,36 @@ filters:
   and:
     - file.hasProperty("tags")
     - '!file.inFolder("Templates")'
+formulas:
+  Untitled: tags.containsAny("todo", "untried")
 properties:
   file.name:
     displayName: Recipe
   file.folder:
     displayName: Category
+  formula.Untitled:
+    displayName: TODO
 views:
   - type: table
-    name: Table
+    name: All Recipes
     order:
       - file.folder
       - file.name
       - Cook Time
       - Course
       - Unusual Ingredients
+      - formula.Untitled
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: Course
-        direction: ASC
-      - property: Vegan
+      - property: formula.Untitled
         direction: DESC
+      - property: file.name
+        direction: ASC
     columnSize:
       file.folder: 220
       file.name: 349
       note.Cook Time: 316
       note.Course: 242
-      note.Unusual Ingredients: 589
+      note.Unusual Ingredients: 535

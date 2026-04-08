@@ -1,4 +1,18 @@
 #todo 
+
+# Shortlist of Recipes to Try
+
+- [ ] [[Eggplant in Brown Sauce (Hong Shao Qie Zi)]] 🔥
+- [ ] [[Vegan Quinoa & Peanut Butter Sausage]] 🔥
+- [ ] [[Molten Lava Tofu (Baojiang Doufu)]]
+- [ ] [[Mayu with Sesame & Chilli]]
+- [ ] [[Confit Tandoori Chickpeas]] 🔥
+- [ ] [[Vegan Lasagne]]
+- [ ] [[Tarte Tatin]]
+- [ ] [[Crêpe Roses with Ricotta and Flambéed Orange Sauce]]
+- [ ] [[Mushroom Wellington]] (perhaps with spiced red wine reduction sauce below?)
+- [ ] [[Roasted Whole Cauliflower with Green Tahini Sauce]]
+
 # Recipe Sources
 
 - [Cleobuttera](https://cleobuttera.com/recipes/) (desserts & sweet drinks with Middle-Eastern influence)
@@ -20,6 +34,7 @@
   Note: this did not make nearly enough pastry cream; double the cream or even more. Also, maybe it would be nicer with a softer cream caramel?
 - Halva ice cream - Google this; there are lots of recipes
 - [Chocolate salami](https://www.vickisgreekrecipes.com/recipes/greek-chocolate-salami-with-dried-fruits-and-nuts-kormos/)
+- [Absolute best vegan brownies](https://rainbowplantlife.com/the-absolute-best-vegan-brownies/)
 
 ## Savoury
 
@@ -28,13 +43,3 @@
 - Ottolenghi: [Hot and sour soup with savoy cabbage and bean sprouts](https://ottolenghi.co.uk/pages/recipes/hot-sour-soup-savoy-cabbage-bean-sprouts)
 - [Paneer tikka masala](https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-container-38270)
 - Sweet fruity curries like lychee green curry or [pineapple curry](https://getinspiredeveryday.com/food/pineapple-curry/#recipe)
-
-# Shortlist of Recipes to Try
-
-- [ ] [[Mayu with Sesame & Chilli]]
-- [ ] [[Confit Tandoori Chickpeas]]
-- [ ] [[Vegan Lasagne]]
-- [ ] [[Crêpe Roses with Ricotta and Flambéed Orange Sauce]]
-- [ ] [[Mushroom Wellington]] (perhaps with spiced red wine reduction sauce above?)
-- [ ] [[Roasted Whole Cauliflower with Green Tahini Sauce]]
-- [ ] Crispy Shandong Fengwei Eggplant (untranscribed: on [YouTube](https://youtu.be/1KJN_q6q0co))
