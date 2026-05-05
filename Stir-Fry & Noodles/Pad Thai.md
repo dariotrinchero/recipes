@@ -13,6 +13,7 @@ Vegan: true
 tags:
   - stir-fry
   - noodles
+  - thai
 ---
 # Ingredients
 
@@ -31,7 +32,7 @@ tags:
 - chilli flakes
 - 1 onion, sliced
 - 2 garlic cloves, minced
-- [[Tofu scramble]], 4 small blocks (or 2 eggs, scrambled)
+- [[Tofu Scramble]], 4 small blocks (or 2 eggs, scrambled)
 - 1 1/2 cups of beansprouts
 - 1/4 cup chives, snipped with scissors
 - 1/4 cup finely chopped peanuts

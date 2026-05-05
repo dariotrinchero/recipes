@@ -11,6 +11,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - salad
+  - thai
 ---
 # Ingredients
 

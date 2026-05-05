@@ -19,12 +19,12 @@ tags:
 
 It's really hard to go wrong, as long as the tacos contain some basic elements. Mix and match some selection, comprising at least one item from each row, and it's bound to be great:
 
-| Component             | Possible variations                                                                                                                                                                                                  |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fatty / creamy spread | guacamole<br>cream cheese<br>labneh<br>hummus<br>mashed butter beans<br>caramelised onion piperade<br>mayonnaise<br>confit garlic<br>[[tofu scramble]]<br>[[Caramelised Zucchini Pasta\|caramelised zucchini paste]] |
-| Main body             | roast aubergine<br>roast sweet potato<br>roast cauliflower<br>roast artichoke<br>roast butternut<br>refried beans<br>soy mince                                                                                       |
-| Crispy elements       | lettuce<br>crispy fried chickpeas<br>raw onion slices<br>sliced baby tomatoes / cucumber<br>crispy tofu<br>toasted seeds                                                                                             |
-| Flavour boosters      | za'atar<br>herb pesto<br>gremolata<br>salsa<br>pico de gallo<br>fresh herbs                                                                                                                                          |
+| Component             | Possible variations                                                                                                                                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fatty / creamy spread | guacamole<br>cream cheese<br>labneh<br>hummus<br>mashed butter beans<br>caramelised onion piperade<br>mayonnaise<br>confit garlic<br>[[Tofu Scramble\|tofu scramble]]<br>[[Caramelised Zucchini Pasta\|caramelised zucchini paste]] |
+| Main body             | roast aubergine<br>roast sweet potato<br>roast cauliflower<br>roast artichoke<br>roast butternut<br>refried beans<br>soy mince                                                                                                      |
+| Crispy elements       | lettuce<br>crispy fried chickpeas<br>raw onion slices<br>sliced baby tomatoes / cucumber<br>crispy tofu<br>toasted seeds                                                                                                            |
+| Flavour boosters      | za'atar<br>herb pesto<br>gremolata<br>salsa<br>pico de gallo<br>fresh herbs                                                                                                                                                         |
 
 # Ingredients for taco shells
 
@@ -44,3 +44,4 @@ It's really hard to go wrong, as long as the tacos contain some basic elements. 
 - [[Charred Green Pepper & Sweet Potato Tacos]]
 - [[Burnt Aubergine Soft-shell Tacos]]
 - [[Basil Pesto & Sweet Potato Tacos]]
+- [[Tofu Satay Tacos with Grilled Cauliflower]]

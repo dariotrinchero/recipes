@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - stir-fry
+  - thai
 ---
 # Ingredients
 
