@@ -34,7 +34,7 @@ tags:
 * 2 spring onions, thinly sliced 
 * 2 tbsp sesame seeds 
 * Bunch of coriander, chopped 
-* Crispy tofu (optional; as [[Crispy Tofu|here]] or like that from Ottlenghi's orange nam jim)
+* Crispy tofu (optional; as [[Crispy Tofu|here]] or like that from Ottolenghi's orange nam jim)
 
 ## Dressing
 
@@ -48,7 +48,7 @@ tags:
 
 # Method
 
-1. Preheat oven to 180c 
+1. Preheat oven to 180°C.
 2. Place the cooked rice in baking tray (no tin foil), add soy sauce, sesame oil and crisp chilli, mix well to combine, spread evenly in the tray and slide into the oven for 20-30 minutes or until crispy. 
 3. Prepare the dressing, mix all ingredients in a small bowl. 
 4. Place all the salad ingredients in a large bowl, mix well to combine, add crispy rice, dressing, serve and enjoy.

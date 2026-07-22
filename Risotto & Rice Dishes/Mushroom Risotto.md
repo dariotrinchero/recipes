@@ -12,7 +12,7 @@ Unusual Ingredients:
   - parmesan
   - wine
   - chives
-Vegan: false
+Vegan: true
 tags:
   - "#risotto"
 ---
@@ -26,9 +26,9 @@ tags:
 - 2 medium shallots, diced
 - 1 ½ cups Arborio rice
 - ½ cup dry white wine
-- 4 tablespoons butter
+- 4 tablespoons (vegan) butter
 - 3 tablespoons finely chopped chives
-- ⅓ cup freshly grated Parmesan cheese
+- ⅓ cup freshly grated Parmesan cheese (substitute with nutritional yeast for vegan version, but also see [[#Notes]])
 - sea salt and freshly ground black pepper to taste
 
 # Method
@@ -44,3 +44,4 @@ tags:
 # Notes
 
 - Add some exotic mushrooms (shimeji, enoki, etc) to the final product for aesthetics.
+- For the vegan version, I think the mushrooms are better cooked as in [[Vegan Creamy Mushrooms (for Pasta, Gnocchi, or Risotto)]], as this helps add flavours otherwise lacking due to the omission of cheese.

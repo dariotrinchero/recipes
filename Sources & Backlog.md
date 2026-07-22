@@ -1,38 +1,29 @@
 #todo 
 
-# Shortlist of Recipes to Try
+# Shortlist
 
-- [ ] [[Eggplant in Brown Sauce (Hong Shao Qie Zi)]] 🔥
-- [ ] [[Vegan Quinoa & Peanut Butter Sausage]] 🔥
+- [ ] [Matcha & white chocolate cookies](https://www.cooking-therapy.com/matcha-white-chocolate-chip-cookies/#recipe)
 - [ ] [[Molten Lava Tofu (Baojiang Doufu)]]
-- [ ] [[Mayu with Sesame & Chilli]]
-- [ ] [[Confit Tandoori Chickpeas]] 🔥
 - [ ] [[Vegan Lasagne]]
 - [ ] [[Tarte Tatin]]
 - [ ] [[Crêpe Roses with Ricotta and Flambéed Orange Sauce]]
 - [ ] [[Mushroom Wellington]] (perhaps with spiced red wine reduction sauce below?)
 - [ ] [[Roasted Whole Cauliflower with Green Tahini Sauce]]
 
-# Recipe Sources
+---
+# Sources
 
-- [Cleobuttera](https://cleobuttera.com/recipes/) (desserts & sweet drinks with Middle-Eastern influence)
+| Source                                                                                 | Specialty                       |
+| -------------------------------------------------------------------------------------- | ------------------------------- |
+| [The Banana Diaries](https://thebananadiaries.com/)                                    | Vegan desserts                  |
+| [W2 Kitchen](https://www.youtube.com/playlist?list=PLP7K32dTk0Zn0khGAYBjwopRZnh-tQ5xH) | All-round great YouTube channel |
+| [Mary's Test Kitchen](https://www.youtube.com/@marystestkitchen)                       | Tofu experiments                |
 
-## YouTube Channels
-
-- [Vegetarian favourites](https://www.youtube.com/playlist?list=PLP7K32dTk0Zn0khGAYBjwopRZnh-tQ5xH) by [W2 KITCHEN](https://www.youtube.com/@w2kitchen)
-- [Mary's Test Kitchen](https://www.youtube.com/@marystestkitchen) (tofu experiments)
-- [Internet Shaquille](https://www.youtube.com/@internetshaquille)
-- [Middle Eats](https://www.youtube.com/@MiddleEats)
-- [J. Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt)
-
+---
 # Untranscribed Recipes
 
 ## Sweet
 
-- [Matcha & white chocolate cookies](https://www.cooking-therapy.com/matcha-white-chocolate-chip-cookies/#recipe)
-- Croquembouche: https://www.thespruceeats.com/a-classic-croquembouche-recipe-1375168
-  Note: this did not make nearly enough pastry cream; double the cream or even more. Also, maybe it would be nicer with a softer cream caramel?
-- Halva ice cream - Google this; there are lots of recipes
 - [Chocolate salami](https://www.vickisgreekrecipes.com/recipes/greek-chocolate-salami-with-dried-fruits-and-nuts-kormos/)
 - [Absolute best vegan brownies](https://rainbowplantlife.com/the-absolute-best-vegan-brownies/)
 

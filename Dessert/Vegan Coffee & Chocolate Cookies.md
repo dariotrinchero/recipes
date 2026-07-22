@@ -42,3 +42,4 @@ tags:
 # Notes
 
 - Obviously, variations in flavour are possible. The base recipe serves as a good versatile vegan cookie.
+- For good non-vegan cookies, see [[B’s Legendary Choc-Chip Cookies]].

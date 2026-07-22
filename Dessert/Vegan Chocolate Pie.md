@@ -33,4 +33,4 @@ tags:
 
 # Notes
 
-- None
+- For a (much more complicated) non-vegan decadent chocolate dessert, see [[Chocolate Mousse (Cake)]].

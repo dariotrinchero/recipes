@@ -24,7 +24,7 @@ tags:
 - 3 Tbsp Kahlua
 - 1 pack _lady fingers_
 - 1 small (~80g) slab dark chocolate, grated
-- Cocao powder for dusting
+- Cocoa powder for dusting
 
 # Method
 
@@ -37,4 +37,4 @@ tags:
 
 # Notes
 
-- None
+- For a vegan version, see [[Meera Sodha's Vegan Tiramisu]].

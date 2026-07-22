@@ -3,13 +3,13 @@ filters:
     - file.hasProperty("tags")
     - '!file.inFolder("Templates")'
 formulas:
-  Untitled: tags.containsAny("todo", "untried")
+  TODO: tags.containsAny("todo", "untried")
 properties:
   file.name:
     displayName: Recipe
   file.folder:
     displayName: Category
-  formula.Untitled:
+  formula.TODO:
     displayName: TODO
 views:
   - type: table
@@ -20,12 +20,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC
@@ -46,12 +46,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC
@@ -72,12 +72,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC
@@ -98,12 +98,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC
@@ -124,12 +124,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC
@@ -150,12 +150,12 @@ views:
       - Cook Time
       - Course
       - Unusual Ingredients
-      - formula.Untitled
+      - formula.TODO
       - Vegan
     sort:
       - property: file.folder
         direction: ASC
-      - property: formula.Untitled
+      - property: formula.TODO
         direction: DESC
       - property: file.name
         direction: ASC

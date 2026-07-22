@@ -14,8 +14,6 @@ Unusual Ingredients:
   - gluten flour
 Vegan: true
 tags:
-  - todo
-  - untried
   - meat-replacement
   - sausage
   - component

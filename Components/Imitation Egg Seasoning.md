@@ -31,4 +31,3 @@ tags:
 # Notes
 
 - Mainly useful in a [[Tofu Scramble]], but might also be nice in [[Vegan Mayonnaise]], or in a combination of the two, for instance to create an imitation egg-mayo sandwich.
-- #todo Try the above applications.

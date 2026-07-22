@@ -1,6 +1,6 @@
 ---
-Source: Judy van Zyl
-Cook Time: ~6h fridge time
+Source: https://altonbrown.com/recipes/chocolate-chia-pudding/
+Cook Time: 10min + 2h fridge time
 Course:
   - dessert
 Meal type:
@@ -11,22 +11,25 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - dessert
+  - untried
+  - todo
 ---
 # Ingredients
 
-- 2 Tbsp sugar
-- 2 Tbsp cocoa powder
-- 2 tsp vanilla essence
-- 2 tsp instant coffee
-- 1x400g tin coconut cream
-- ¼ cup chia seeds
+- 70g cocoa powder
+- 160g (dark) maple syrup
+- 55g chia seeds
+- 1 large avocado, pitted and scooped
+- 5ml vanilla extract
+- 1 teaspoon kosher salt
+- 24g coconut oil, at room temperature
 
 # Method
 
-1. Mix everything.
-2. Beat that shit smooth until sugar dissolved.
-3. Fridge for ages, stirring every 30min or so.
-4. Serve with cocao nibs and maybe toasted coconut flakes. It would also be improved by something tart like maybe a berry compote.
+1. Place the cocoa powder in the blender. Microwave 1 cup of water for 1 minute, then add to the blender and blend on high for 30 seconds.
+2. Add the maple syrup, chia seeds, avocado, vanilla extract, and salt, plus 1 cup of water to the blender and blend on high for 45 seconds.
+3. Slowly stream in the coconut oil with the blender still running. Continue to blend on high until the pudding homogenises, about 1 minute more.
+4. Transfer to a resealable container and chill in the fridge for at least 2 hours. The pudding will continue to set up as it cools. You can also dose the pudding into individual serving containers then cover and cool.
 
 # Notes
 

@@ -58,3 +58,4 @@ tags:
 - **Do Not Over-Bake.** The cake layer is very thin and over-bakes quickly.
 - **Cool Completely.** Allow the cake base to cool completely before filling it with the chocolate mousse so the mousse will set properly.
 - **Chill Before Serving.** Make sure you chill the cake in the fridge for at least 4 hours before serving as it needs time to set and chill properly. Do not put it in the freezer to speed up the cooling process.
+- For a similarly decadent vegan chocolate dessert, see [[Vegan Chocolate Pie]].

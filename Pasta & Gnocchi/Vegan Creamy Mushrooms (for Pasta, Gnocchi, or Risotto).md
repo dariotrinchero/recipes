@@ -5,6 +5,8 @@ Course:
   - main
 Meal type:
   - pasta
+  - gnocchi
+  - risotto
 Servings: "2"
 Unusual Ingredients:
   - fresh thyme
@@ -12,6 +14,8 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - pasta
+  - blueprint
+  - risotto
 ---
 # Ingredients
 
@@ -22,7 +26,7 @@ tags:
 - olive oil (for frying, as needed)
 - sprinkle all purpose flour (~1Tbsp)
 - 3/4 can of coconut cream (preferably "organic" or with minimal additives)
-- dried tagliatelle
+- starch of choice (eg. pasta, gnocchi, or risotto)
 
 ## Flavour boosters
 
@@ -44,11 +48,11 @@ tags:
 5. Once onion is soft, add garlic, and cook until no longer pungent.
 6. Add flour to pan and coat in oil. Stir vigorously while adding cold coconut cream.
 7. Add stock and nutritional yeast (to taste), along with additional pepper if wanted. Cook pasta on the side.
-8. Once sauce is simmering, and appropriately thick, cut the heat. Add pasta and mix once cooked. Optionally top with grated truffle, truffle oil, or just extra olive oil.
+8. Once sauce is simmering, and appropriately thick, cut the heat. Add to (cooked) starch of choice (pasta, gnocchi, risotto, etc). Optionally top with grated truffle, truffle oil, or just extra olive oil.
 
 # Notes
 
-- This is the first vegan mushroom cream pasta I have made that rivals the non-vegan stuff. I think the key points are:
+- This is the first vegan creamy mushroom I have made that rivals the non-vegan stuff. I think the key points are:
 	- using lots of mushrooms,
 	- (generous amount of good) wine,
 	- fresh and dried thyme,
@@ -56,3 +60,4 @@ tags:
 	- meticulously browning the mushrooms,
 	- good quality coconut cream, and
 	- nutritional yeast.
+- This is a great vegan alternative to [[Mushroom Risotto]].

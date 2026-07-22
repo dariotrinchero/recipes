@@ -39,4 +39,4 @@ tags:
 
 # Notes
 
-- None
+- For good vegan cookies, see [[Vegan Coffee & Chocolate Cookies]].
