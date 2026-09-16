@@ -7,10 +7,10 @@ Meal type:
   - wrap
   - enchilada
 Servings: 2-4
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
-  - "#wrap"
+  - wrap
   - mexican
 ---
 # Ingredients

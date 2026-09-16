@@ -6,11 +6,11 @@ Course:
 Meal type:
   - vegetables
 Servings: "4"
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
-  - "#roast"
-  - "#mexican"
+  - roast
+  - mexican
 ---
 # Ingredients
 

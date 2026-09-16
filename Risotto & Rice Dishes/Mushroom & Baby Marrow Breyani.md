@@ -7,10 +7,10 @@ Meal type:
   - stew
   - rice dish
 Servings: "3"
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
-  - "#rice-dish"
+  - rice-dish
   - curry
 ---
 # Ingredients

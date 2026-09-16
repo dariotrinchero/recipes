@@ -1,13 +1,13 @@
 ---
 Source: https://www.youtube.com/watch?v=cnRl40c5NSs
-Cook Time: 1h + 1day resting time
+Cook Time: 1h + 1 day resting time
 Course:
   - component
 Meal type:
   - sauce
   - condiment
 Servings: large bottle
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - condiment

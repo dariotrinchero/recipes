@@ -8,7 +8,7 @@ Meal type:
 Servings: "4"
 Unusual Ingredients:
   - cashews
-  - fresh corriander
+  - fresh coriander
   - kasuri methi
 Vegan: false
 tags:

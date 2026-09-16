@@ -11,7 +11,7 @@ Unusual Ingredients:
   - tofu
 Vegan: true
 tags:
-  - "#stir-fry"
+  - stir-fry
   - meat-replacement
   - component
 ---

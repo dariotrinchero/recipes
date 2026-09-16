@@ -7,7 +7,7 @@ Meal type:
   - taco
   - wrap
 Servings: 4-5 tacos
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - wrap

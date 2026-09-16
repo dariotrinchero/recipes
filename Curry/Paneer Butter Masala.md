@@ -8,7 +8,7 @@ Meal type:
 Servings: "4"
 Unusual Ingredients:
   - cashews
-  - fresh corriander
+  - fresh coriander
   - kasuri methi
 Vegan: false
 tags:
@@ -51,11 +51,11 @@ tags:
 
 1. Heat oil in a pan. Add green cardamoms & onions. Stir fry until they turn transparent to light pink. (If you do not have ginger garlic paste for this recipe, you may add chopped ginger and garlic along with onions)
 2. Next add tomatoes & salt. Saute for 3 minutes. Cover and cook till the onion & tomatoes turn soft & completely mushy.
-3. Add garam masala, coriander powder, cashew nuts, red chili powder & sugar (optional). 
+3. Add garam masala, coriander powder, cashew nuts, red chili powder & sugar (optional).
 4. Stir fry this till the onion tomato masala turns aromatic. This takes 2 to 3 minutes.
-5. Turn off the stove & cool this completely. 
-6. Transfer to a blender & pour water. Blend to a really silky smooth puree. If it is not smooth, filter it through a strainer to another bowl. Set this aside. 
-7. Heat butter in the same pan. Optional – When the butter melts, add cinnamon, cloves, green cardamoms & bay leaf. 
+5. Turn off the stove & cool this completely.
+6. Transfer to a blender & pour water. Blend to a really silky smooth puree. If it is not smooth, filter it through a strainer to another bowl. Set this aside.
+7. Heat butter in the same pan. Optional – When the butter melts, add cinnamon, cloves, green cardamoms & bay leaf.
 8. Reduce the flame to low, saute ginger garlic paste for a minute until it smells aromatic.
 9. Stir in the blended onion tomato puree. Taste test your puree & optionally you may add more red chili powder for a deeper color.
 10. Pour more water & mix well. Bring it to a rolling boil. Reduce the heat to medium and cook covered until the gravy cooks down to a thicker consistency. Keep stirring every few minutes.

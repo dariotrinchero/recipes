@@ -1,7 +1,8 @@
 ---
 Source: https://www.insightflavour.com/post/halloumi-aubergine-shakshouka
 Cook Time: 1h
-Course: main
+Course:
+  - main
 Meal type:
   - breakfast
   - stew

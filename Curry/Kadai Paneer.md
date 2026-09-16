@@ -11,7 +11,7 @@ Unusual Ingredients:
   - Kashmiri chilli powder
   - kasuri methi
   - cashews
-  - fresh corriander
+  - fresh coriander
 Vegan: true
 tags:
   - curry
@@ -53,7 +53,7 @@ tags:
 
 1. Grind red chillies, cardamom, fennel seeds, coriander seeds, cloves & cinnamon to a fine powder. If you add more cinnamon it can ruin the dish.
 2. Heat oil in a pan. Add onions & cashew nuts. Saute them on a medium high flame until the onions turn transparent or pink.
-3. Add tomatoes and saute until completely mushy. 
+3. Add tomatoes and saute until completely mushy.
 4. Cool this completely and add to a blender jar. Blend to a smooth paste or puree. Set this aside.
 5. To the same pan, add oil and heat it.
 6. Saute onion and capsicum on the highest flame until half done. They must be slightly tender yet crunchy.

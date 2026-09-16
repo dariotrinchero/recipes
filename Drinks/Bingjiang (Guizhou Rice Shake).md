@@ -13,35 +13,35 @@ Unusual Ingredients:
   - rose buds
 Vegan: true
 tags:
-  - "#drink"
+  - drink
 ---
 # Ingredients
 
 ## Shake
 
-* **Cooked** sticky rice, 60g (this is the mass of cooked rice)
-* Ice, 240g
-* Sugar, 1.5 tbsp
+- **Cooked** sticky rice, 60g (this is the mass of cooked rice)
+- Ice, 240g
+- Sugar, 1.5 tbsp
 
 **Variant 1: Cucumber & milk bingjiang**
-* Milk, 60g
-* Milk powder (奶粉), 1 tbsp
-* Cucumber, 60g, peeled and chopped
+- Milk, 60g
+- Milk powder (奶粉), 1 tbsp
+- Cucumber, 60g, peeled and chopped
 
 **Variant 2: Mango bingjiang**
-* Mango (very ripe), 120g, chopped
+- Mango (very ripe), 120g, chopped
 
 ## Toppings
 
-* Toasted (or roasted) peanuts, chopped, ~1/2 tbsp
-* Toasted sesame seeds, ~1/2 tbsp
-* Optionally, 1-2 tsp of syrup (see below); this works best with the cucumber variant
+- Toasted (or roasted) peanuts, chopped, ~1/2 tbsp
+- Toasted sesame seeds, ~1/2 tbsp
+- Optionally, 1-2 tsp of syrup (see below); this works best with the cucumber variant
 
 ## Syrup
 
-* Jaggery, slab sugar (片糖), or dark brown sugar, 120g
-* Water, 240g
-* Dried rose buds (玫瑰花茶), ~5
+- Jaggery, slab sugar (片糖), or dark brown sugar, 120g
+- Water, 240g
+- Dried rose buds (玫瑰花茶), ~5
 
 # Method
 

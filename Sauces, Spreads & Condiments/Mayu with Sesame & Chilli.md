@@ -7,7 +7,7 @@ Meal type:
   - sauce
   - condiment
 Servings: 1 cup of sauce (~16 servings)
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - sauce

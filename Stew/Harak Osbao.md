@@ -9,27 +9,27 @@ Meal type:
 Servings: 6-8
 Unusual Ingredients:
   - pomegranate molasses
-  - fresh corriander
+  - fresh coriander
   - pomegranate seeds
   - pitta
   - tamarind
 Vegan: true
 tags:
-  - "#stew"
+  - stew
   - pasta
 ---
 # Ingredients
 
 - 4 Onions
 - 2 Thin Lebanese Pitta
-- 250g (8.75 oz) Lentils 
+- 250g (8.75 oz) Lentils
 - 200g (7 oz) Tamarind
 - 175g (6.1 oz) Pasta
 - 150g Coriander
 - 100g (3.5 oz) Pomegranate molasses
 - 1 Head of garlic -  (3 Tbsp minced)
-- 2 1/2 Tsp Salt
-- 3/4 Tsp pepper
+- 2 1/2 tsp Salt
+- 3/4 tsp pepper
 - 2/3 Cup olive oil
 - Pomegranate seeds + Coriander to garnish
 
@@ -56,7 +56,7 @@ tags:
 8. Change the paper towels after 10 minutes to maintain crispiness
 9. Strain the oil and set it aside
 
-	## To make the tamarind
+## To make the tamarind
 
 1. Break your tamarind block into smaller pieces and place in a bowl
 2. Pour over 1l of boiling water

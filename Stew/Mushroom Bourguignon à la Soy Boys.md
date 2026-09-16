@@ -12,8 +12,8 @@ Unusual Ingredients:
   - agar-agar
 Vegan: true
 tags:
-  - "#untried"
-  - "#stew"
+  - untried
+  - stew
 ---
 # Ingredients
 

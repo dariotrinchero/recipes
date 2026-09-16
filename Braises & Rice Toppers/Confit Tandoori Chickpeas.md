@@ -1,6 +1,6 @@
 ---
 Source: https://ottolenghi.co.uk/pages/recipes/confit-tandoori-chickpeas
-Cook Time: 1h45m
+Cook Time: 1h45min
 Course:
   - main
 Meal type:
@@ -8,7 +8,7 @@ Meal type:
 Servings: "4"
 Unusual Ingredients:
   - fresh mint
-  - fresh corriander
+  - fresh coriander
   - Kashmiri chilli powder
 Vegan: true
 tags:

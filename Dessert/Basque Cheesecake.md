@@ -1,6 +1,6 @@
 ---
 Source: https://www.recipetineats.com/basque-cheesecake/#wprm-recipe-container-120283
-Cook Time: 1h + 1d fridge time
+Cook Time: 1h + 1 day fridge time
 Course:
   - dessert
 Meal type:
@@ -26,13 +26,13 @@ tags:
 
 # Method
 
-#### Shorthand recipe
+## Shorthand recipe
 
 1. **Prep** – Preheat oven to 220°C / 425°F (200°C fan) with the shelf in the middle. Press scrunched paper into 20cm/8" spring-form pan.
 2. **Batter –** Beat cream cheese 2 minutes on medium. Beat in sugar on low speed for 10 seconds. In separate bowl, hand whisk 1/4 cup cream with the flour (becomes like paste). Whisk in remaining cream and vanilla. While beating on low, slowly pour cream into cream cheese, then eggs (don't over-beat).
 3. **Bake** – Pour into pan, bang pan on counter, pop bubbles with knife. Bake 45 min (up to 65 min possible) until top deep golden. Cool 2 hrs on counter then 8 hrs+ in fridge uncovered. Ready for serving!
 
-#### Full instructions recipe
+## Full instructions recipe
 
 1. **Preheat oven** to 220°C / 425°F (200°C fan) with the shelf in the middle of the oven.
 2. **Pan prep** – Press 2 x 40cm/16" sheets of scrunched up baking/parchment paper arranged in an "X" into a 20cm/8" spring-form pan (6cm / 2.5" tall), and fold down over the rim to hold in place. You'll need to scrunch/pleat to fit which creates the signature rustic sides! The batter will weigh it down so don't worry if it doesn't stay in.

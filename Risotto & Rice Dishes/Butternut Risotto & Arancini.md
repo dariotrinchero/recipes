@@ -18,7 +18,7 @@ Unusual Ingredients:
   - maple syrup
 Vegan: false
 tags:
-  - "#risotto"
+  - risotto
   - snack
   - component
 ---
@@ -34,18 +34,18 @@ tags:
 - Parmesan
 - Salt and pepper
 - Olive oil
-- Fresh sage 
+- Fresh sage
 - Unsalted butter
 - Maple syrup
 - White pepper
 
 ## For arancini
 
-- All purpose flour  
-- Mozzarella or jack cheese (something melty)  
-- Panko bread crumbs  
-- Oil for frying  
-- Leftover risotto  
+- All purpose flour
+- Mozzarella or jack cheese (something melty)
+- Panko bread crumbs
+- Oil for frying
+- Leftover risotto
 - Tomato sauce (for dipping); see notes
 
 # Method
@@ -55,7 +55,7 @@ tags:
 1. Trim a butternut squash and cut it in half lengthwise. Scoop out the insides from the cavity. Place squash on a parchment paper-lined baking sheet. Drizzle with olive oil and rub all over the flesh of the squash. Put some fresh sage into the cavity of each half of squash. Lastly, sprinkle with salt and pepper and flip the squash over so it is cut-side down on the baking sheet.
 2. Bake at 350°F for 45-60 minutes, or until a paring knife shows little to no resistance when pierced through the flesh.
 3. Scoop out all of the squash flesh and place it into a blender, but reserve 1 cup of the flesh for later. Add some stock to the blender, just enough to help make it into a puree. Add a little, blend, and check for consistency. Add stock until puree consistency is reached.
-4. In a stock pot, sweat a small onion in some olive oil over medium heat. Add 1 cup of rice (arborio or carnaroli) and stir. Deglaze the pan with a glug or two of dry white wine. Simmer over high heat until the smell of alcohol has cooked off, stirring constantly. 
+4. In a stock pot, sweat a small onion in some olive oil over medium heat. Add 1 cup of rice (arborio or carnaroli) and stir. Deglaze the pan with a glug or two of dry white wine. Simmer over high heat until the smell of alcohol has cooked off, stirring constantly.
 5. Now it’s time to slowly start adding the stock. You should have the stock gently simmering in a different pot. Add a couple ladles at a time and stir constantly. Once you are able to drag your spoon across the bottom of the pot and it leaves a trail of exposed pot behind it, add 2 or 3 more ladles of hot stock. Keep repeating this process of adding stock and stirring until you can see the bottom of the pot when scraped, all while keeping the pot at a medium simmer. Do this until the rice is almost fully cooked (toothsome).
 6. Next, add the butternut squash puree and stir to combine. Continue to cook over medium-low heat until the rice is complete.
 7. In a separate pan, fry sage leaves in some butter until the butter starts to turn brown. Once you see the milk fats start to solidify and darken, remove the pan from the heat and pour the butter into a container to cool. Remove the fried sage leaves and set aside.

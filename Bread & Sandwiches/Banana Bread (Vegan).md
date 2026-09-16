@@ -9,7 +9,7 @@ Meal type:
   - bread
   - dessert
 Servings: 1 loaf (~10 slices)
-Unusual Ingredients: []
+Unusual Ingredients:
 Vegan: true
 tags:
   - bread

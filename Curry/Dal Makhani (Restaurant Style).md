@@ -50,7 +50,7 @@ tags:
 12. Then add kasuri methi and pour cream. Stir and cook again for 6 to 8 mins until it becomes thick and creamy.
 13. Taste and add more salt if needed. Add butter and mix well.
 
-### Dhungar – Smoking (optional)
+## Dhungar – Smoking (optional)
 
 1. Place a small piece of foil or a tall steel cup on the dal makhani. Hold 1 to 2 inch piece of natural wood charcoal with a tong and burn it on direct fire until red hot. Then place it on the foil kept over dal or in the steel cup.
 2. Quickly pour ¼ tsp ghee on the hot coal. Immediately cover the pot and allow to smoke for 3 to 4 mins. For stronger flavor, add another ¼ tsp ghee on the coal and repeat the smoking.

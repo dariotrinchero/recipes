@@ -6,7 +6,7 @@ Course:
 Meal type:
   - dessert
 Servings: 15 small squares
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - dessert
@@ -17,7 +17,7 @@ tags:
 - Yellow or Green Split Peas 300g (1½ Cups)
 - Water (Into Pressure Cooker) 570g (2¼ Cups)
 - Water (Into Blender) 60g (¼ Cup)
-- Soda Ash 1g (⅛ Tsp)
+- Soda Ash 1g (⅛ tsp)
 - Sugar 90g (less Than ½ Cup）
 
 # Method

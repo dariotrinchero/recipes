@@ -7,7 +7,7 @@ Meal type:
   - sauce
   - staple
 Servings: N/A
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
   - sauce
@@ -31,7 +31,7 @@ tags:
 2. Place your stick blender over the egg ensuring the blades touch the egg itself. Pour the oil into the jug.
 3. Holding the stick blender down start blending at a high speed and wait for the emulsion to occur. This should start happening quite soon after you start blending. Once this has happened slowly lift the blender slightly to incorporate more of the oil.
 4. Once the mayonnaise is well on its way to being thick and emulsified (there will still be some oil that has not been mixed in),  pull the immersion blender up and down to get the rest of the oil incorporated.
-5. When your mayonnaise is thick and well blended, adjust your seasoning to your taste preference. 
+5. When your mayonnaise is thick and well blended, adjust your seasoning to your taste preference.
 6. Store in a sealed jar for up to a month in the fridge.
 
 # Notes

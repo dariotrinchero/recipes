@@ -9,7 +9,7 @@ Servings: 4-8
 Unusual Ingredients:
   - ponzu
   - fresh basil
-Vegan: true
+Vegan: false
 tags:
   - salad
 ---

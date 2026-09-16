@@ -7,7 +7,7 @@ Meal type:
   - curry
 Servings: "4"
 Unusual Ingredients:
-  - fresh corriander
+  - fresh coriander
   - kidney beans
 Vegan: true
 tags:

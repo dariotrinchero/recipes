@@ -1,6 +1,6 @@
 ---
 Source: https://downshiftology.com/recipes/falafel/
-Cook Time: 1h30m + 1day soaking time, prior to starting
+Cook Time: 1h30min + 1 day soaking time, prior to starting
 Course:
   - component
 Meal type:
@@ -10,9 +10,9 @@ Unusual Ingredients:
   - dried chickpeas
 Vegan: true
 tags:
-  - "#snack"
-  - "#component"
-  - "#wrap"
+  - snack
+  - component
+  - wrap
 ---
 # Ingredients
 

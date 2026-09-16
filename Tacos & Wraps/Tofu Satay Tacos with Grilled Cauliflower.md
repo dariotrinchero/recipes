@@ -9,7 +9,7 @@ Meal type:
 Servings: 8 small tacos
 Unusual Ingredients:
   - finger limes
-  - fresh corriander
+  - fresh coriander
 Vegan: true
 tags:
   - wrap

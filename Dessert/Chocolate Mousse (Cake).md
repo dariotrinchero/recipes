@@ -6,7 +6,7 @@ Course:
 Meal type:
   - dessert
 Servings: 6-8
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
   - dessert

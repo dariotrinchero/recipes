@@ -1,6 +1,6 @@
 ---
 Source: https://www.joshuaweissman.com/post/french-onion-soup
-Cook Time: 1h40m
+Cook Time: 1h40min
 Course:
   - main
   - starter
@@ -30,7 +30,7 @@ tags:
 - Gruyere cheese, grated
 - Gouda cheese, grated
 
-## For Finish:
+## For Finish
 
 - 2 tablespoons (28g) unsalted butter
 - 2 oz gruyere
@@ -45,7 +45,7 @@ tags:
 4. Deglaze with bourbon and white wine. Bring up to a boil and reduce to about 70 percent of total volume.
 5. Add beef stock and a bundle of thyme. Simmer for 20-30 minutes.
 6. Finish with sherry, simmer for 1-2 minutes, remove from heat and add butter until melted and emulsified. Season to taste with salt and pepper.
-7. Grate gruyere and guoda cheese. Toss together.
+7. Grate gruyere and gouda cheese. Toss together.
 8. Brush ½ in slices of baguette bread with olive oil at 425 F or 218 C
 9. Ladle soup into oven-safe bowls
 10. Leave a quarter in of space, place under high broiler 2-3 min.

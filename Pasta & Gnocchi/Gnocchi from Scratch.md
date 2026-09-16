@@ -7,7 +7,7 @@ Course:
 Meal type:
   - gnocchi
 Servings: "2"
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - component

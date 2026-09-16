@@ -26,7 +26,7 @@ tags:
 3. Heat on low until barely simmering; constantly stir thickening mixture with a spatula, preventing it from boiling.
 4. Remove from heat and pour into moulds.
 5. Cool to room temperature before refrigerating for 4h to set.
-6. Run a thin knife around the edge of each mould, then invert onto a plate. Dip the moulds in warm water for 3s if sticking occurs. 
+6. Run a thin knife around the edge of each mould, then invert onto a plate. Dip the moulds in warm water for 3s if sticking occurs.
 7. Serve with desired toppings (see notes).
 
 # Notes

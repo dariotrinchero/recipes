@@ -1,6 +1,6 @@
 ---
 Source: https://cookieandkate.com/classic-minestrone-soup-recipe/
-Cook Time: 1h20m
+Cook Time: 1h20min
 Course:
   - main
 Meal type:

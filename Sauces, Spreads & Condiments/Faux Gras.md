@@ -1,6 +1,6 @@
 ---
 Source: https://saucestache.com/vegan-faux-gras-recipe/
-Cook Time: 20min + 1day soaking, prior to starting
+Cook Time: 20min + 1 day soaking, prior to starting
 Course:
   - component
   - side
@@ -13,14 +13,14 @@ Meal type:
 Servings: 6-8
 Unusual Ingredients:
   - cashews
-  - xantham gum
+  - xanthan gum
   - agar-agar
   - tapioca flour
   - molasses
   - shiitake
 Vegan: true
 tags:
-  - "#condiment"
+  - condiment
   - dip
 ---
 # Ingredients
@@ -29,7 +29,7 @@ tags:
 - 50 g shiitake mushrooms (if using dried shiitake, this is the mass after soaking overnight, then lightly squeezing out excess water; you can add a bit more than this with no harm)
 - 1.5 g tapioca starch
 - 1.3 g agar agar
-- .6 g xantham gum
+- .6 g xanthan gum
 - 8 g kosher salt
 - 1.5 g black pepper
 - pinch nutmeg

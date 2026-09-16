@@ -11,8 +11,8 @@ Unusual Ingredients:
   - avo
 Vegan: true
 tags:
-  - "#wrap"
-  - "#breakfast"
+  - wrap
+  - breakfast
 ---
 # Ingredients
 
@@ -41,4 +41,4 @@ tags:
 
 # Notes
 
-- One can use a [[Vegan Mayonnaise|vegan mayonnaise]] in place of ordinary mayonnaise, and one can replace the scrambled eggs with a [[Tofu Scramble]] incorporating [[imitation egg seasoning]].
+- One can use a [[Vegan Mayonnaise|vegan mayonnaise]] in place of ordinary mayonnaise, and one can replace the scrambled eggs with a [[Tofu Scramble]] incorporating [[Imitation Egg Seasoning|imitation egg seasoning]].

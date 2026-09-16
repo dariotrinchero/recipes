@@ -7,7 +7,7 @@ Meal type:
   - taco
   - wrap
 Servings: 9 tacos
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - blueprint
@@ -28,13 +28,13 @@ It's really hard to go wrong, as long as the tacos contain some basic elements. 
 
 # Ingredients for taco shells
 
-- -250g all-purpose flour
+- 250g all-purpose flour
 - 1 Tbsp olive oil
 - 125 ml water
 
 # Method for taco shells
 
-1. Mix ingredients, & kneed for ~5min.
+1. Mix ingredients, & knead for ~5min.
 2. Rest covered in fridge for ~30min to relax.
 3. Divide into 9 equal pieces by mass. Roll each portion into a circle, then lightly toast on each side in a piping hot cast iron (small bubbles should form).
 4. As the tacos come off the heat, stack them under a towel to keep them warm.

@@ -14,7 +14,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - dessert
-  - "#cake"
+  - cake
 ---
 # Ingredients
 

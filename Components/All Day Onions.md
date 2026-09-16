@@ -8,7 +8,7 @@ Meal type:
   - sauce
   - soup
 Servings: enough caramelised onion for ~20 meals
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - component

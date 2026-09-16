@@ -10,8 +10,8 @@ Unusual Ingredients:
   - semolina
 Vegan: true
 tags:
-  - "#pizza"
-  - "#component"
+  - pizza
+  - component
   - ottolenghi
 ---
 # Ingredients
@@ -33,5 +33,5 @@ tags:
 # Notes
 
 - In particular, used for two Ottolenghi recipes from the same source:
-	1. [[Kale, Taleggio, & Hot Honey Pizza]] 
-	2. [[Fennel & Chilli-Spiced Mushroom, Basil, & Ricotta Pizza]]
+    1. [[Kale, Taleggio, & Hot Honey Pizza]]
+    2. [[Fennel & Chilli-Spiced Mushroom, Basil, & Ricotta Pizza]]

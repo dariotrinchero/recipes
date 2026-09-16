@@ -1,6 +1,6 @@
 ---
 Source: https://www.bonappetit.com/recipe/mushroom-sloppy
-Cook Time: 
+Cook Time:
 Course:
   - main
 Meal type:

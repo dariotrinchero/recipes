@@ -25,7 +25,7 @@ tags:
 - Zest of 2 oranges (~2.5 tbsp)
 - 1 tsp vanilla essence
 
-### For the Icing
+## For the Icing
 
 - 90g/1/2 cup icing sugar
 - 2 tbsp orange juice

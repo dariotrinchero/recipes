@@ -1,11 +1,12 @@
 ---
 Source: https://www.youtube.com/watch?v=ONYflj0I2QI
 Cook Time: 20min
-Course: main
+Course:
+  - main
 Meal type:
   - breakfast
 Servings: 1-2
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
   - breakfast
@@ -14,17 +15,17 @@ tags:
 
 - 5 medium eggs
 - Seasoning for the eggs:
-	- 1/2 tsp salt,
-	- 1/2 tsp sugar,
-	- a slurry of 1 tsp cornstarch (生粉) mixed with 1 tbsp water,
-	- optional 1/2 tsp liaojiu a.k.a. Shaoxing wine (料酒/绍酒),
-	- 1 tsp toasted sesame oil (麻油),
-	- 1/8 tsp white pepper powder (白胡椒粉),
-	- 1/8 tsp MSG or chicken bouillon powder (味精/鸡粉).
+    - 1/2 tsp salt,
+    - 1/2 tsp sugar,
+    - a slurry of 1 tsp cornstarch (生粉) mixed with 1 tbsp water,
+    - optional 1/2 tsp liaojiu a.k.a. Shaoxing wine (料酒/绍酒),
+    - 1 tsp toasted sesame oil (麻油),
+    - 1/8 tsp white pepper powder (白胡椒粉),
+    - 1/8 tsp MSG or chicken bouillon powder (味精/鸡粉).
 - Oil, for frying, 2 tbsp
 - Add-ins (optional):
-	- ~60g; Jiuhuang yellow chives (韭黄),
-	- ~20g or the white portion of, I dunno, ~4 scallions
+    - ~60g; Jiuhuang yellow chives (韭黄),
+    - ~20g or the white portion of, I dunno, ~4 scallions
 
 # Method
 

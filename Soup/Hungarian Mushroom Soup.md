@@ -13,7 +13,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - soup
-  - "#untried"
+  - untried
 ---
 # Ingredients
 
@@ -30,7 +30,7 @@ tags:
 - 2 teaspoons lemon juice, fresh
 - 1⁄4 cup parsley, chopped
 - fresh ground black pepper, to taste
-- 1⁄2 cup sour cream 
+- 1⁄2 cup sour cream
 
 # Method
 

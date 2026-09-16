@@ -1,6 +1,6 @@
 ---
 Source: https://www.fromachefskitchen.com/ethiopian-red-lentil-vegetable-stew/#recipe
-Cook Time: 1h15m
+Cook Time: 1h15min
 Course:
   - main
 Meal type:
@@ -11,8 +11,8 @@ Unusual Ingredients:
   - berbere
 Vegan: true
 tags:
-  - "#stew"
-  - "#curry"
+  - stew
+  - curry
 ---
 # Ingredients
 

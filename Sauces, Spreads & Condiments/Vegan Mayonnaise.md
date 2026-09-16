@@ -7,7 +7,7 @@ Meal type:
   - sauce
   - staple
 Servings: N/A
-Unusual Ingredients: []
+Unusual Ingredients:
 Vegan: true
 tags:
   - condiment

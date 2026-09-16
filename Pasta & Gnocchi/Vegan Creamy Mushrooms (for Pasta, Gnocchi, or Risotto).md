@@ -53,11 +53,11 @@ tags:
 # Notes
 
 - This is the first vegan creamy mushroom I have made that rivals the non-vegan stuff. I think the key points are:
-	- using lots of mushrooms,
-	- (generous amount of good) wine,
-	- fresh and dried thyme,
-	- flavour boosters like miso, Dijon, soy sauce, and stock,
-	- meticulously browning the mushrooms,
-	- good quality coconut cream, and
-	- nutritional yeast.
+    - using lots of mushrooms,
+    - (generous amount of good) wine,
+    - fresh and dried thyme,
+    - flavour boosters like miso, Dijon, soy sauce, and stock,
+    - meticulously browning the mushrooms,
+    - good quality coconut cream, and
+    - nutritional yeast.
 - This is a great vegan alternative to [[Mushroom Risotto]].

@@ -1,12 +1,12 @@
 ---
 Source: https://www.bakedbyanintrovert.com/ciabatta-bread/
-Cook Time: 1.5h + 1day resting time
+Cook Time: 1.5h + 1 day resting time
 Course:
   - side
 Meal type:
   - bread
 Servings: 6-8
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - bread

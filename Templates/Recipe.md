@@ -1,10 +1,10 @@
 ---
-Source: 
-Cook Time: 
-Course: 
-Meal type: 
-Servings: 
-Unusual Ingredients: 
+Source:
+Cook Time:
+Course:
+Meal type:
+Servings:
+Unusual Ingredients:
 Vegan: false
 tags: []
 ---

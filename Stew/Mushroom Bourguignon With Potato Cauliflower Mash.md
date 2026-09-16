@@ -6,14 +6,14 @@ Course:
 Meal type:
   - stew
 Servings: 2-3
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
-  - "#stew"
+  - stew
 ---
 # Ingredients
 
-## Mushroom Bourguignon:
+## Mushroom Bourguignon
 
 - 2 tsp oil
 - ½ (0.5) medium onion chopped
@@ -30,7 +30,7 @@ tags:
 - 1 tbsp cornstarch or arrowroot starch mixed in 3 tbsp water (you can also add 2 tbsp of the mashed potato mixture to thicken)
 - 1 cup (30 g) of spinach or greens
 
-## Potato Mash:
+## Potato Mash
 
 - 1 large potato cubed small
 - 1 cup (100 g) cauliflower florets (heaping cup)
@@ -44,11 +44,11 @@ tags:
 1. Heat the Instant Pot on Saute. Add oil. When the oil is hot, add the onion, garlic, mushrooms and a good pinch of salt and give them a quick mix. Cook for **3 to 4** minutes until golden on some edges. Add a tbsp of water if browning too quickly.
 2. Add the wine and mix well for a few seconds to cook out the alcohol.
 3. Add the carrots, celery, thyme and garlic and mix well. Add the soy sauce, tomato paste, ⅓ tsp salt (if using water or unsalted broth) and water/broth and give it a mix. Cancel saute. You can also add in 1 bay leaf and some rosemary for flavour variation at this point.
-4. _Place the steamer basket_ on top of the mushroom mixture. Add potato and cauliflower to it. 
+4. _Place the steamer basket_ on top of the mushroom mixture. Add potato and cauliflower to it.
 5. Close the Instant Pot lid. Pressure Cook for **9 to 10 minutes** (Manual hi pressure). Add a minute if using larger quantity of either mushroom mix or potatoes, or if doubling.
 6. Let the pressure release naturally once the cooking is complete. Open the lid and carefully remove the steamer basket.
 7. Put the pot on saute, Add cornstarch slurry and give it a mix (you can also add 2 tbsp of the mashed potato mixture to thicken). Add spinach or baby kale and black pepper and mix. Bring the mixture to a boil to thicken, then cancel saute. Taste and adjust salt and flavour.
-8. _Meanwhile_. Transfer the steamed potato and cauliflower to a bowl and mash roughly. Add garlic powder, salt, pepper, olive oil, non dairy milk  and optionally fresh/dried herbs of choice (eg. thyme, rosemary, chives) and mash well to preferred consistency. 
+8. _Meanwhile_. Transfer the steamed potato and cauliflower to a bowl and mash roughly. Add garlic powder, salt, pepper, olive oil, non dairy milk  and optionally fresh/dried herbs of choice (eg. thyme, rosemary, chives) and mash well to preferred consistency.
 9. Serve the mash layered with the mushroom bourguignon. Garnish with some fresh thyme or basil and black or white pepper.
 
 # Notes

@@ -6,10 +6,10 @@ Course:
 Meal type:
   - soup
 Servings: 3-4
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
-  - "#soup"
+  - soup
 ---
 # Ingredients
 

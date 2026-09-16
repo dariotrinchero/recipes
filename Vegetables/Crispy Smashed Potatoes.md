@@ -6,10 +6,10 @@ Course:
 Meal type:
   - vegetables
 Servings: 3-4
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
-  - "#snack"
+  - snack
   - component
   - vegetables
 ---

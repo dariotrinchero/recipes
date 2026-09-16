@@ -12,8 +12,8 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - breakfast
-  - "#untried"
-  - "#todo"
+  - untried
+  - todo
 ---
 # Ingredients
 

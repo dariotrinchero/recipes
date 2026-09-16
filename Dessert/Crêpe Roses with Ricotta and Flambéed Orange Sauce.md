@@ -70,9 +70,9 @@ These are prepared as per [this video](https://www.youtube.com/watch?v=yEV4Fmo2f
 1. Remove butter from fridge, if not already.
 2. Put raisins into a bowl. Cover in boiling water and a squirt of lemon juice. Allow to sit for at least 30min.
 3. If your ricotta is very wet, you will need to dry it out some. For this:
-	1. Place a layer of foil on the counter, covered in 3 layers of paper towel. Spread over the ricotta, then 3 more layers of paper towel, and some more foil. 
-	2. Place a weight on top, and allow to drain for about 20min.
-	3. Repeat a second time.
+    1. Place a layer of foil on the counter, covered in 3 layers of paper towel. Spread over the ricotta, then 3 more layers of paper towel, and some more foil.
+    2. Place a weight on top, and allow to drain for about 20min.
+    3. Repeat a second time.
 4. Whisk yolks and sugar together until the mixture is very thick and pale yellow (about 2min).
 5. Add vanilla paste/extract, sour cream, and ricotta.
 6. Whip everything together until smooth.
@@ -81,7 +81,7 @@ These are prepared as per [this video](https://www.youtube.com/watch?v=yEV4Fmo2f
 ## Sauce (see Notes for timing this)
 
 1. Combine the orange juice, zest, vanilla extract, and sugar in a stainless steel skillet. Cook on high-heat, whisking occasionally, until the liquid turns slightly syrupy (roughly reduce by half).
-2. Add a pinch of salt, and the butter. Whisk until the butter incorperates.
+2. Add a pinch of salt, and the butter. Whisk until the butter incorporates.
 3. Optionally add some fresh fruit at this stage.
 4. Add Grand Marnier (pour from a cup, not the bottle!). Hold a lighter near where the alcohol was poured, and wait to ignite. Do not bring your face near the pan! If the alcohol does not light, no problem.
 5. Once the flames subside (or after a few minutes), the sauce is ready.
@@ -92,8 +92,8 @@ If serving today, preheat the oven to 175 Celsius now. Otherwise, skip this step
 
 1. Spread softened butter on the bottom (and slightly up the sides) of a 10" stainless steel skillet.
 2. Spread about 2Tbsp of filling in a strip along the middle of the diameter of each crêpe. Fold in half; flatten out the filling; fold the thick filling-containing strip upwards once; then roll into a rose. Ensure that no crêpes have rips at the bottom. If there are any rips, rather double-up the crêpe layers.
-3. Place all of the roses in the skillet, all snug and touching. 
-   
+3. Place all of the roses in the skillet, all snug and touching.
+
 If you did the previous 3 steps the day before, then time step 5 below to coincide with having your orange juice on the stove busy reducing.
 
 4. Preheat the oven to 175 Celsius, if not already heated.

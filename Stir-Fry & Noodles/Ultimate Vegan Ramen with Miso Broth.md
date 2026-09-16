@@ -17,9 +17,9 @@ Unusual Ingredients:
   - maitake
 Vegan: true
 tags:
-  - "#noodles"
+  - noodles
   - soup
-  - "#todo"
+  - todo
 ---
 # Ingredients
 

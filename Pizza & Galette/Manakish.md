@@ -32,7 +32,7 @@ tags:
 
 - 340 grams fresh mozzarella or replace with Akawi cheese
 - 200 grams feta cheese or replace with Akawi cheese
-- 1.5 tablespoons nigella seeds (also known as Kolonji)
+- 1.5 tablespoons nigella seeds (also known as Kalonji)
 
 ## For the za'atar topping
 
@@ -60,7 +60,7 @@ tags:
 6. Spread the cheese mixture on the remaining 5 of manakish, leaving a ¼ inch border. Sprinkle with the nigella seeds
 7. Place the baking sheets in the oven on the bottom rack and bake for 12-15 minutes until the bottom is lightly golden. You can bake more than one sheet at one time, by placing one on the bottom rack and one on the middle rack. Once the bottom rack manakish are cooked, then switch the middle rack sheet pan to the bottom for a few more minutes until cooked through
 8. For the cheese manakish, you can broil the top for just a few minutes to lightly brown the cheese. Keep an eye when you're doing this as it happens quickly
-9. Remove baked manakish and place in a platter and cover with a towl or plastic bag to keep them soft until serving
+9. Remove baked manakish and place in a platter and cover with a towel or plastic bag to keep them soft until serving
 10. Serve them with fresh vegetables like tomato, cucumber, mint, and olives
 
 # Notes

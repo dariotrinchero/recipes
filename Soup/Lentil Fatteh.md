@@ -13,7 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - untried
-  - "#todo"
+  - todo
   - soup
 ---
 # Ingredients
@@ -22,8 +22,8 @@ tags:
 
 - 4 Pitta breads
 - 1-2 Tbsp olive oil
-- 1/4 Tsp Salt
-- 1/8 Tsp Black pepper
+- 1/4 tsp Salt
+- 1/8 tsp Black pepper
 
 ## Lentil soup
 

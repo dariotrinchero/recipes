@@ -38,7 +38,7 @@ tags:
 - 1/3 to 1/2 teaspoon chilli flakes
 - 2+1/2 teaspoons brown sugar
 
-## For Serving:
+## For Serving
 
 - Thai Jasmine rice or noodles
 

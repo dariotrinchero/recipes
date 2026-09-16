@@ -1,6 +1,6 @@
 ---
 Source: https://frugalflexitarian.com/malva-pudding-a-traditional-south-african-dessert/#wprm-recipe-container-609
-Cook Time: 1h20m
+Cook Time: 1h20min
 Course:
   - dessert
 Meal type:

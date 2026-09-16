@@ -12,7 +12,7 @@ Unusual Ingredients:
   - fresh parsley
 Vegan: true
 tags:
-  - "#risotto"
+  - risotto
 ---
 # Ingredients
 

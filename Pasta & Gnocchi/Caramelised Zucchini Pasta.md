@@ -6,7 +6,7 @@ Course:
 Meal type:
   - pasta
 Servings: "2"
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - pasta

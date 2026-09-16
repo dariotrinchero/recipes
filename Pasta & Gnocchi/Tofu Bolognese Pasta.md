@@ -37,7 +37,7 @@ tags:
 # Notes
 
 - The tofu-browning technique is worth remembering:
-  
+
 >   The Maillard reaction requires **protein** (in the tofu), but also **fat** (frying oil will suffice), and, crucially, **sugar** (soy sauce can provide this).
 
 - This is a very simple pasta, but surprisingly tasty.

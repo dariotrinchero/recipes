@@ -51,10 +51,10 @@ tags:
 # Notes
 
 - My attempt of the recipe above came out way, way too oily. I did it in a wok, with quite a lot of oil. I see the actual recipe calls for a nonstick skillet and very little oil, cooking one side at a time. I think this may work a lot better, but will call for some more patience...
-  
+
 - "Hong Shao Qie Zi" is the pinyin transliteration of 红烧茄子 in Simplified Chinese or 紅燒茄子 in Traditional Chinese. It translates roughly to "red-cooked eggplant" or "red-braised eggplant".
-  
+
 - I tried this recipe at HeSheng in Cape Town, and found this recipe online. Other recipes may better recreate the desired HeSheng flavour profile; some candidates:
-	- https://savorychina.com/homestyle-braised-eggplant-the-secret-low-oil-method/
-	- https://www.saveur.com/article/Recipes/Classic-Red-Cooked-Eggplant/
-	- https://www.yangsnourishingkitchen.com/vegan-chinese-eggplant-recipe/
+    - https://savorychina.com/homestyle-braised-eggplant-the-secret-low-oil-method/
+    - https://www.saveur.com/article/Recipes/Classic-Red-Cooked-Eggplant/
+    - https://www.yangsnourishingkitchen.com/vegan-chinese-eggplant-recipe/

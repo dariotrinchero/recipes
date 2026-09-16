@@ -8,7 +8,7 @@ Course:
 Meal type:
   - soup
 Servings: ~6 bowls
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - soup

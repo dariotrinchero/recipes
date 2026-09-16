@@ -6,7 +6,7 @@ Course:
 Meal type:
   - breakfast
 Servings: 1 to 12
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
   - breakfast
@@ -39,7 +39,7 @@ tags:
 ## Fool-proof Hollandaise
 
 1. Combine the egg yolks, water, lemon juice, and a pinch of salt in a cup or jar that's just wide enough to accommodate the head of your hand blender.
-2. In a small saucepan, melt the butter over medium heat, swirling constantly, until foamy and bubbling. Transfer the butter to a liquid measuring cup, **leaving behind any milky white liquid** at the bottom.  
+2. In a small saucepan, melt the butter over medium heat, swirling constantly, until foamy and bubbling. Transfer the butter to a liquid measuring cup, **leaving behind any milky white liquid** at the bottom.
 3. Place head of immersion blender into the bottom of the cup and turn it on. With the blender constantly running, slowly pour the hot butter into the measuring up, letting it run down the shaft of the hand blender. Continue pouring slowly until all the butter is added. The Hollandaise should be thick and creamy. Season to taste with salt and a pinch of cayenne pepper or hot sauce, as desired. You can adjust the consistency of the sauce with a little bit of water if you prefer it thinner. It should flow very gently like lava when you spoon it onto a plate.
 4. Place the blender jar in a hot water bath and keep it in a warm place for up to 30 minutes before serving.
 

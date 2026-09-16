@@ -13,7 +13,7 @@ Unusual Ingredients:
   - fresh oreganum
 Vegan: false
 tags:
-  - "#bread"
+  - bread
   - galette
 ---
 ![[Pear, Mint, Tomato & Goat’s Cheese Galette.png]]
@@ -27,7 +27,7 @@ tags:
 - 3 cloves of garlic
 - Whole tomatoes, as small as possible
 - 10 cardamom pods
-- 1tsp (heaped) caraway seads
+- 1tsp (heaped) caraway seeds
 - Cinnamon, cloves, and/or Chinese 5-spice
 - Honey
 

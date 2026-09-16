@@ -17,17 +17,17 @@ tags:
 ---
 # Ingredients
 
-- 2 cups wood chips soaked in water (apple or cherry)  
-- 1 pound whole trumpet/king oyster mushrooms  
-- 1 each head kale, finely sliced (chiffonade)  
-- 2 each carrots, peeled and grated  
-- 1 each red onion, julienned  
+- 2 cups wood chips soaked in water (apple or cherry)
+- 1 pound whole trumpet/king oyster mushrooms
+- 1 each head kale, finely sliced (chiffonade)
+- 2 each carrots, peeled and grated
+- 1 each red onion, julienned
 - 1 cup mayonnaise (consider [[Mayonnaise (Hellmann’s Copycat)]] or [[Vegan Mayonnaise]])
-- 4 tablespoons sugar  
-- ½ cup apple cider vinegar  
-- 1 tablespoon crushed red pepper flakes  
-- 2 tablespoons vegetable oil  
-- 1 cup BBQ sauce  
+- 4 tablespoons sugar
+- ½ cup apple cider vinegar
+- 1 tablespoon crushed red pepper flakes
+- 2 tablespoons vegetable oil
+- 1 cup BBQ sauce
 - 4 each sandwich rolls
 
 # Method

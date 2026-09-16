@@ -10,12 +10,12 @@ Unusual Ingredients:
   - strawberries
 Vegan: true
 tags:
-  - "#sauce"
+  - sauce
   - component
 ---
 # Ingredients
 
-- - 425g strawberries (mass after removing tops)
+- 425g strawberries (mass after removing tops)
 - 200g (or a little more) beet, cubed small
 - ~4tbsp balsamic vinegar
 - ~1tsp grated ginger

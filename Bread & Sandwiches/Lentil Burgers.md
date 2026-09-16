@@ -1,7 +1,8 @@
 ---
 Source: Original
 Cook Time: 2-3h
-Course: main
+Course:
+  - main
 Meal type:
   - burger
 Servings: roughly 4-5

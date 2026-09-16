@@ -36,7 +36,7 @@ tags:
 - ¼ tsp freshly ground black pepper
 - A handful baby spinach
 
-## For the cashew cream:
+## For the cashew cream
 
 - 200g raw cashews
 - Juice of 1 lime

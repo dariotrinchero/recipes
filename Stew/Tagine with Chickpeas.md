@@ -1,6 +1,6 @@
 ---
 Source: https://rainbowplantlife.com/vegan-tagine-with-chickpeas/#recipe
-Cook Time: 1h30m
+Cook Time: 1h30min
 Course:
   - main
 Meal type:
@@ -52,7 +52,7 @@ tags:
 5. Pour in some of the broth to deglaze the pot and scrape up any browned bits. Add the remaining broth, squash, chickpeas, bay leaves, salt, tomatoes, and dates. Stir, and bring to a boil. Turn off the heat, and drizzle with a nice glug of olive oil, and stir again to combine. Place the lid on the pan and ensure it’s fitted tightly.
 6. Transfer to the oven and bake, covered, for 40 minutes, or until squash is tender and the mixture is thick and stew-like.
 7. For the best flavor, cool for 15 to 20 minutes. Stir in half of the zest and 1 tablespoon lemon juice. Taste, adding more lemon zest or juice as desired.
-8. Serve in bowls topped with yogurt sauce, chopped parsley or cilantro, and a drizzle of extra virgin olive oil, alongside some flat-breads. 
+8. Serve in bowls topped with yogurt sauce, chopped parsley or cilantro, and a drizzle of extra virgin olive oil, alongside some flat-breads.
 
 # Notes
 

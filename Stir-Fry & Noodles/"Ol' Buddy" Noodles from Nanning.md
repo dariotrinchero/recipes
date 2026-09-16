@@ -23,12 +23,12 @@ tags:
 - Hunan chopped chilis (剁椒) or Guizhou ‘pickled chili’ (糟辣椒), preferably, ½ tbsp
 - Fresh noodles (生面), 100g or rice noodles, 100g, or dried noodles, ~70g or one pack of instant noodles
 - Sauce:
-	- Soy sauce, (生抽), 1 tbsp;
-	- Rice vinegar, (米醋), 1 tbsp;
-	- Oyster sauce, (蚝油), 1 tsp;
-	- Sugar, ¼ tsp;
-	- Salt, 1/8 tsp;
-	- Chicken bouillon powder (鸡粉), 1/8 tsp
+    - Soy sauce, (生抽), 1 tbsp;
+    - Rice vinegar, (米醋), 1 tbsp;
+    - Oyster sauce, (蚝油), 1 tsp;
+    - Sugar, ¼ tsp;
+    - Salt, 1/8 tsp;
+    - Chicken bouillon powder (鸡粉), 1/8 tsp
 - Stock, 600mL
 - Sliced scallions, to top
 

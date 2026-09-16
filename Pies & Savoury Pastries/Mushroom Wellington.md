@@ -1,6 +1,6 @@
 ---
 Source: https://georgieeats.co.uk/mushroom-wellington/
-Cook Time: 1h45m
+Cook Time: 1h45min
 Course:
   - main
   - component
@@ -13,8 +13,8 @@ Unusual Ingredients:
   - walnuts
 Vegan: true
 tags:
-  - "#pastry"
-  - "#pie"
+  - pastry
+  - pie
   - todo
 ---
 # Ingredients
@@ -32,7 +32,7 @@ tags:
 
 # Method
 
-1. Preheat the oven to 200°c (fan assisted)/425°f/gas 7.
+1. Preheat the oven to 200°C (fan assisted)/425°F/gas 7.
 2. Combine the butternut squash, a good drizzle of olive oil and a sprinkle of salt and black pepper on a baking tray. Give everything a good mix, then roast for 35-40 minutes, or until lovely and soft.
 3. Heat a good glug of olive oil in a large frying pan over a medium heat. Once hot, add the mushrooms and onion and fry for 10-12 minutes, or until very soft. Add the chestnuts, walnuts, sage and thyme, season and fry for a further 5 minutes, until everything has softened and the onions are starting to caramelise.
 4. Remove the pan from the heat and add the roasted squash. Use a potato masher to mash everything together into a chunky paste, then taste and adjust the seasoning, if needed. Allow the mixture to cool completely.

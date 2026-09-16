@@ -14,7 +14,7 @@ Unusual Ingredients:
   - chives
 Vegan: true
 tags:
-  - "#risotto"
+  - risotto
 ---
 # Ingredients
 

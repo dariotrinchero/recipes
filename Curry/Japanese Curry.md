@@ -1,13 +1,13 @@
 ---
 Source: https://www.justonecookbook.com/simple-chicken-curry/#wprm-recipe-container-59001
-Cook Time: 1h30m
+Cook Time: 1h30min
 Course:
   - main
 Meal type:
   - curry
   - stew
 Servings: 3-4
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: true
 tags:
   - curry
@@ -24,7 +24,7 @@ tags:
 
 ## For Japanese curry roux (makes some excess)
 
-#### Spice mix
+### Spice mix
 
 - 1 tsp turmeric
 - 1 tsp cumin powder
@@ -37,7 +37,7 @@ tags:
 - 1/4 tsp ground cardamom
 - 1/4 tsp ground cloves
 
-#### Roux ingredients
+### Roux ingredients
 
 - 3-4 Tbsp neutral oil
 - 3-4 Tbsp flour

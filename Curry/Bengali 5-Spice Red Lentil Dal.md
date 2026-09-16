@@ -14,7 +14,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - curry
-  - "#soup"
+  - soup
 ---
 # Ingredients
 
@@ -25,11 +25,11 @@ tags:
 - 1/2 cup finely chopped white or yellow onion
 - 2 medium cloves garlic, finely chopped and made into a paste
 - 2 teaspoons Bengali five spice mix (panch phoron) OR
-	- 1/2 teaspoon nigella seeds (or black/white sesame seeds),
-	- 1/2 teaspoon cumin seeds,
-	- 1/2 teaspoon fennel seeds,
-	- 1/2 teaspoon mustard seeds, and
-	- 1/2 teaspoon fenugreek seeds
+    - 1/2 teaspoon nigella seeds (or black/white sesame seeds),
+    - 1/2 teaspoon cumin seeds,
+    - 1/2 teaspoon fennel seeds,
+    - 1/2 teaspoon mustard seeds, and
+    - 1/2 teaspoon fenugreek seeds
 - 1 bay leaf
 - 1 teaspoon turmeric
 - 1 teaspoon kosher salt plus more to taste

@@ -1,16 +1,16 @@
 ---
 Source: https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need
-Cook Time: 1h + 1day resting time
+Cook Time: 1h + 1 day resting time
 Course:
   - dessert
 Meal type:
   - ice cream
   - dessert
 Servings: 6-8
-Unusual Ingredients: 
+Unusual Ingredients:
 Vegan: false
 tags:
-  - "#dessert"
+  - dessert
 ---
 # Ingredients
 
@@ -47,17 +47,17 @@ tags:
 - Karak chai (see [https://youtu.be/GKfYkIL2y_A](https://youtu.be/GKfYkIL2y_A))
 - Baklava (see [https://youtu.be/GKfYkIL2y_A](https://youtu.be/GKfYkIL2y_A))
 - Ricotta, pistachio, raspberry, olive oil & lemon zest
-- Mango, corriander, chili & coconut milk
+- Mango, coriander, chili & coconut milk
 - Pear & blue cheese
 - Caramalized onion & goat cheese
-- Lemongrass, basil, corriander, ginger & coconut cream
-- Safron & sahlab
+- Lemongrass, basil, coriander, ginger & coconut cream
+- Saffron & sahlab
 - Miso caramel (sesame? Pecan?)
 - White wine & peaches
 - White chocolate & basil
-- Black garlic (mejool dates?)
+- Black garlic (medjool dates?)
 - Balsamic, strawberry & black pepper
 - Olive oil?
-- Parmasan (Tasting History)
+- Parmesan (Tasting History)
 - Cereal milk
 - Coconut curry

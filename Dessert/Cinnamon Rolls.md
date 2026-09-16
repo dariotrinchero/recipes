@@ -64,7 +64,7 @@ tags:
 1. To the saucepan with the tangzhong (flour paste), whisk in the melted butter and milk until very smooth. Add in the eggs and whisk until fully incorporated. The liquid ingredients will cool off the hot tangzhong and the mixture should now feel lukewarm.
 2. In the bowl of a stand mixer (or a large bowl if kneading by hand) whisk together the flour, powdered milk, and yeast to combine. Pour in the flour paste/milk mixture.
 3. Fit the stand mixer with the dough hook and mix on low speed until all the flour is moistened and a shaggy dough comes together; 1 to 2 minutes. Let the dough rest, covered, for 20 minutes; this will give the flour a chance to absorb the liquid, making it easier to knead.
-4. After the 20 minutes, add the sugar and salt and mix on medium-low speed until a smooth, elastic and slightly sticky dough forms; about 10 minutes. The dough will be very sticky when mixing begins, but resist the urge to add more flour; the dough will absorb the excess moisture and come together nicely as the mixing progresses. After the 10 minutes of kneading, the dough should feel slightly sticky but not messy and should easily come together in a taut ball when handled with lightly oiled hands. 
+4. After the 20 minutes, add the sugar and salt and mix on medium-low speed until a smooth, elastic and slightly sticky dough forms; about 10 minutes. The dough will be very sticky when mixing begins, but resist the urge to add more flour; the dough will absorb the excess moisture and come together nicely as the mixing progresses. After the 10 minutes of kneading, the dough should feel slightly sticky but not messy and should easily come together in a taut ball when handled with lightly oiled hands.
 5. Using lightly oiled hands, shape the dough into a ball, and transfer to a lightly greased large bowl. Cover tightly with plastic wrap and allow to rise in a warm place, until almost doubled in volume, about 1 hour. Alternatively, you can let it rise slowly in the fridge overnight; my personal favourite method, as a cold dough is so much easier to work with. Meanwhile, prepare the filling.
 
 ## Filling
@@ -84,13 +84,13 @@ tags:
 2. With the mixer running, gradually add in the powdered sugar. Continue beating, until the sugar is fully incorporated and the mixture is light and fluffy; about 2 more minutes.
 3. Add in the milk, lemon juice, vanilla and salt, and beat until well combined. Cover until needed.
 
-## To bake the Rolls:
+## To bake the Rolls
 
-1. Remove the plastic wrap from over the risen rolls and bake in the preheated oven for 20 to 25 minutes, tenting with aluminium foil halfway through baking to avoid over browning. The rolls are done when the centre of the dough registers around 190F on an instant read thermometer, or when a toothpick inserted in the centre of the roll, should go in and out smoothly, meet no resistance and come out clean..
+1. Remove the plastic wrap from over the risen rolls and bake in the preheated oven for 20 to 25 minutes, tenting with aluminium foil halfway through baking to avoid over browning. The rolls are done when the centre of the dough registers around 190F on an instant read thermometer, or when a toothpick inserted in the centre of the roll, should go in and out smoothly, meet no resistance and come out clean.
 2. Remove the rolls from the oven, and immediately spread the tops with the frosting; it'll partially melt into the rolls. Serve warm. Store completely cooled rolls in an airtight container for a couple of days at room temperature.
 
 # Notes
 
 - From the recipe author:
-  
+
   > [King Arthur Flour](https://www.kingarthurflour.com/recipes/soft-cinnamon-rolls-recipe#reviews), the source of the dough's recipe, calls for bread flour here. Bread flour is not available where I live, so I use all-purpose flour instead with great results. However, please note that the all-purpose flour in my country is high in protein, which makes it similar to bread flour. Using low-protein all-purpose flour will not guarantee perfect results, so stick to bread flour if it's available to you.

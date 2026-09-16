@@ -13,7 +13,7 @@ Unusual Ingredients:
   - walnuts
 Vegan: false
 tags:
-  - "#condiment"
+  - condiment
   - dip
 ---
 # Ingredients

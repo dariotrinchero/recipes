@@ -10,8 +10,8 @@ Unusual Ingredients:
   - turnip
 Vegan: true
 tags:
-  - "#untried"
-  - "#stew"
+  - untried
+  - stew
 ---
 # Ingredients
 

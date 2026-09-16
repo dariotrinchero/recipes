@@ -14,7 +14,7 @@ tags:
 ---
 # Ingredients
 
-- 150 grams (1¼ cups) paneer (Indian cottage cheese)
+- 150 grams (1¼ cups) paneer (or tofu for vegan version)
 - 3½ to 4 cups (100 to 120 grams) palak (spinach)
 - 2 tablespoons oil (or half oil & half butter)
 - 2 green chilies (deseeded) (less spicy kind)

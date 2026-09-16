@@ -23,7 +23,7 @@ tags:
 - 150 unsalted butter
 - 60g pecan nuts
 - 6-15 cardamon pods
-- 180g light muscavado sugar or golden caster sugar
+- 180g light muscovado sugar or golden caster sugar
 - 100ml freshly brewed earl grey
 - 200g dried mixed fruit
 - 200g self raising flour
@@ -33,7 +33,7 @@ tags:
 
 # Method
 
-1. Preheat the oven to 180c/ 350f
+1. Preheat the oven to 180C/350F
 2. Line a tray with baking paper and sprinkle over the nuts and gently roast for 5 minutes
 3. Let cool and chop and put to one side
 4. Brew some earl grey and measure 100ml and leave to cool
