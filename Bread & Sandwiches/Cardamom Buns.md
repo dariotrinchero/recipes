@@ -11,6 +11,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - bread
+  - swedish
   - untried
 ---
 # Ingredients

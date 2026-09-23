@@ -14,6 +14,7 @@ tags:
   - dessert
   - pastry
   - todo
+  - french
   - untried
 ---
 # Ingredients

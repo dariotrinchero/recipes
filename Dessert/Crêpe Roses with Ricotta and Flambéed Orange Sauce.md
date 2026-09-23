@@ -13,6 +13,7 @@ Vegan: false
 tags:
   - untried
   - todo
+  - french
   - dessert
 ---
 # Ingredients

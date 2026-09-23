@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - dessert
+  - spanish
   - cake
 ---
 # Ingredients

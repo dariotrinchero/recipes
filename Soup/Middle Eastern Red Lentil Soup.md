@@ -14,6 +14,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - soup
+  - middle-eastern
   - curry
 ---
 # Ingredients

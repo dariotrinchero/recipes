@@ -10,6 +10,7 @@ Unusual Ingredients:
   - passata
 Vegan: true
 tags:
+  - italian
   - pasta
 ---
 # Ingredients

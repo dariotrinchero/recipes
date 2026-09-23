@@ -15,6 +15,7 @@ Vegan: true
 tags:
   - vegetables
   - condiment
+  - french
   - component
 ---
 # Ingredients

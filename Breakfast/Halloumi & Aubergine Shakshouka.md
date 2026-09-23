@@ -12,6 +12,7 @@ Unusual Ingredients:
   - ras el hanout
 Vegan: false
 tags:
+  - middle-eastern
   - breakfast
 ---
 # Ingredients

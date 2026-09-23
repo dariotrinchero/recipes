@@ -2,7 +2,8 @@
 
 # Shortlist
 
-- [ ] [Matcha & white chocolate cookies](https://www.cooking-therapy.com/matcha-white-chocolate-chip-cookies/#recipe)
+- [ ] [[Aquafaba Meringues]]
+- [ ] [[Chia Seed Pudding]]
 - [ ] [[Molten Lava Tofu (Baojiang Doufu)]]
 - [ ] [[Vegan Lasagne]]
 - [ ] [[Tarte Tatin]]

@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - condiment
+  - french
   - dip
 ---
 # Ingredients

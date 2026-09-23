@@ -17,6 +17,7 @@ tags:
   - component
   - untried
   - todo
+  - middle-eastern
   - dip
 ---
 # Ingredients

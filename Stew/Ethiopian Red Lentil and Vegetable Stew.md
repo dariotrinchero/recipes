@@ -12,6 +12,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - stew
+  - ethiopian
   - curry
 ---
 # Ingredients

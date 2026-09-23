@@ -12,6 +12,7 @@ Unusual Ingredients:
   - mascarpone
 Vegan: false
 tags:
+  - italian
   - dessert
 ---
 # Ingredients

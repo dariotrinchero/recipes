@@ -10,6 +10,7 @@ Unusual Ingredients:
   - vegan gelling agent
 Vegan: true
 tags:
+  - italian
   - dessert
 ---
 # Ingredients

@@ -19,6 +19,7 @@ Vegan: true
 tags:
   - noodles
   - soup
+  - japanese
   - todo
 ---
 # Ingredients

@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - vegetables
+  - french
   - component
 ---
 ![[Fondant Potatoes.png]]

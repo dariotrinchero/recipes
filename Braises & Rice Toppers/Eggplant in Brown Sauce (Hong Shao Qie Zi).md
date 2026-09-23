@@ -10,6 +10,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - braise
+  - chinese
   - unsuccessful
 ---
 **NOTE**: I have attempted this recipe without success. See concluding notes.

@@ -18,6 +18,7 @@ Vegan: true
 tags:
   - pasta
   - braise
+  - italian
   - rice-dish
 ---
 # Ingredients

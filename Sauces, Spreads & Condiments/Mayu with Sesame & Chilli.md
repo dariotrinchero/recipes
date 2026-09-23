@@ -13,6 +13,7 @@ tags:
   - sauce
   - todo
   - untried
+  - japanese
   - condiment
 ---
 # Ingredients

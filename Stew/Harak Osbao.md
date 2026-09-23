@@ -16,6 +16,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - stew
+  - middle-eastern
   - pasta
 ---
 # Ingredients

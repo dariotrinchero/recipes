@@ -9,6 +9,7 @@ Servings: "2"
 Unusual Ingredients:
 Vegan: true
 tags:
+  - italian
   - pasta
 ---
 # Ingredients

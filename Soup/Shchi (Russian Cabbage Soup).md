@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - soup
+  - russian
   - untried
 ---
 # Ingredients

@@ -7,7 +7,6 @@ Meal type:
   - soup
 Servings: "4"
 Unusual Ingredients:
-  - coconut milk
 Vegan: true
 tags:
   - soup

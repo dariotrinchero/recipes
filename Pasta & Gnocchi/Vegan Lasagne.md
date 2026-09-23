@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - todo
+  - italian
   - pasta
 ---
 # Ingredients

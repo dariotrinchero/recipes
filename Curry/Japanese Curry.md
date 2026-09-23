@@ -10,6 +10,7 @@ Servings: 3-4
 Unusual Ingredients:
 Vegan: true
 tags:
+  - japanese
   - curry
 ---
 # Ingredients

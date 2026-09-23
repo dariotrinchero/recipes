@@ -10,11 +10,11 @@ Meal type:
 Servings: "2"
 Unusual Ingredients:
   - fresh thyme
-  - coconut cream
 Vegan: true
 tags:
   - pasta
   - blueprint
+  - italian
   - risotto
 ---
 # Ingredients

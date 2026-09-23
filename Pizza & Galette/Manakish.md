@@ -15,6 +15,7 @@ Vegan: false
 tags:
   - pizza
   - bread
+  - middle-eastern
   - breakfast
 ---
 # Ingredients

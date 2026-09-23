@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - salad
+  - chinese
   - snack
 ---
 # Ingredients

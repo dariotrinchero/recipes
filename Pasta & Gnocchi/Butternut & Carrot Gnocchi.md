@@ -11,6 +11,7 @@ Unusual Ingredients:
   - demi glace
 Vegan: false
 tags:
+  - italian
   - pasta
 ---
 # Ingredients

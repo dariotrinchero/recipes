@@ -13,6 +13,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - braise
+  - chinese
   - rice-dish
 ---
 # Ingredients

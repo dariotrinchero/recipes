@@ -10,6 +10,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - dessert
+  - chinese
   - untried
 ---
 # Ingredients

@@ -8,9 +8,10 @@ Meal type:
   - hearty
 Servings: 3-4
 Unusual Ingredients:
-  - coconut milk
+  - cashews
 Vegan: true
 tags:
+  - indian
   - curry
 ---
 # Ingredients

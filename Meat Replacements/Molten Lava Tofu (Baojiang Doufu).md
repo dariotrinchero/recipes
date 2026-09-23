@@ -16,6 +16,7 @@ tags:
   - meat-replacement
   - todo
   - untried
+  - chinese
   - snack
 ---
 # Ingredients

@@ -11,6 +11,7 @@ Unusual Ingredients:
   - basil pesto
 Vegan: false
 tags:
+  - italian
   - pasta
 ---
 # Ingredients

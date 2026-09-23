@@ -11,6 +11,7 @@ Unusual Ingredients:
   - kidney beans
 Vegan: true
 tags:
+  - indian
   - curry
 ---
 # Ingredients

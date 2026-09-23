@@ -15,6 +15,7 @@ tags:
   - rice-dish
   - todo
   - untried
+  - indian
   - ottolenghi
 ---
 ![[Confit tandoori chickpeas.png]]

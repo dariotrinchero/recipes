@@ -14,6 +14,7 @@ Vegan: false
 tags:
   - curry
   - todo
+  - indian
   - untried
 ---
 # Ingredients

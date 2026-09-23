@@ -14,6 +14,7 @@ Unusual Ingredients:
   - fresh coriander
 Vegan: true
 tags:
+  - indian
   - curry
 ---
 # Ingredients

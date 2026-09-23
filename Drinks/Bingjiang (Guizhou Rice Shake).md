@@ -13,6 +13,7 @@ Unusual Ingredients:
   - rose buds
 Vegan: true
 tags:
+  - chinese
   - drink
 ---
 # Ingredients

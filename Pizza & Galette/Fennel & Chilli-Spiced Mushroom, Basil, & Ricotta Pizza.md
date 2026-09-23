@@ -16,6 +16,7 @@ tags:
   - pizza
   - untried
   - todo
+  - italian
   - ottolenghi
 ---
 ![[Fennel & chilli-spiced mushroom, basil & ricotta pizza.png]]

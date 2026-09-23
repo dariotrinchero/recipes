@@ -15,6 +15,7 @@ Vegan: true
 tags:
   - rice-dish
   - snack
+  - japanese
   - sandwich
 ---
 # Ingredients

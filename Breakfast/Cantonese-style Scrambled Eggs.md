@@ -9,6 +9,7 @@ Servings: 1-2
 Unusual Ingredients:
 Vegan: false
 tags:
+  - chinese
   - breakfast
 ---
 # Ingredients

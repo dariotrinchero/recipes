@@ -12,6 +12,7 @@ Unusual Ingredients:
   - vegan soft cheese
 Vegan: true
 tags:
+  - italian
   - dessert
 ---
 # Ingredients

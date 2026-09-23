@@ -12,6 +12,7 @@ Unusual Ingredients:
 Vegan: false
 tags:
   - dessert
+  - portuguese
   - pastry
 ---
 # Ingredients

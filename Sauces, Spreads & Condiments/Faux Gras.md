@@ -22,6 +22,8 @@ Vegan: true
 tags:
   - condiment
   - dip
+  - french
+  - meat-replacement
 ---
 # Ingredients
 

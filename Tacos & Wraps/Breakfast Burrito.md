@@ -12,6 +12,7 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - wrap
+  - mexican
   - breakfast
 ---
 # Ingredients

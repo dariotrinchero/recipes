@@ -20,6 +20,7 @@ Vegan: false
 tags:
   - risotto
   - snack
+  - italian
   - component
 ---
 # Ingredients

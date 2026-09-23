@@ -9,6 +9,7 @@ Meal type:
 Servings: 2-3
 Unusual Ingredients:
   - sprouts
+  - vegan fish sauce
 Vegan: true
 tags:
   - stir-fry

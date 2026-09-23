@@ -14,6 +14,7 @@ Vegan: true
 tags:
   - untried
   - todo
+  - middle-eastern
   - soup
 ---
 # Ingredients

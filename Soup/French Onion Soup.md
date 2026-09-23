@@ -14,6 +14,7 @@ Unusual Ingredients:
   - gruyere
 Vegan: false
 tags:
+  - french
   - soup
 ---
 # Ingredients

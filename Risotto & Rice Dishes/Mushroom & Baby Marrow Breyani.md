@@ -11,6 +11,8 @@ Unusual Ingredients:
 Vegan: true
 tags:
   - rice-dish
+  - indian
+  - south-african
   - curry
 ---
 # Ingredients

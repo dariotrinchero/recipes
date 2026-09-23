@@ -12,6 +12,7 @@ Vegan: true
 tags:
   - snack
   - component
+  - middle-eastern
   - wrap
 ---
 # Ingredients

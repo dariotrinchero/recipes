@@ -10,6 +10,7 @@ Unusual Ingredients:
   - apricot jam
 Vegan: false
 tags:
+  - south-african
   - dessert
 ---
 # Ingredients

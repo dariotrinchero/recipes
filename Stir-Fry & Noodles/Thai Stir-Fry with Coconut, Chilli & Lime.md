@@ -10,6 +10,7 @@ Servings: "4"
 Unusual Ingredients:
   - fresh basil
   - shiitake
+  - vegan fish sauce
 Vegan: true
 tags:
   - stir-fry
@@ -32,7 +33,7 @@ tags:
 ## Stir-Fry Sauce
 
 - 2/3 cup coconut milk
-- 2+1/2 tablespoons ~~fish sauce~~ (**sub for soy sauce or teriyaki**)
+- 2+1/2 tablespoons vegan fish sauce (sub for soy sauce or teriyaki if needed)
 - 3+1/2 tablespoons fresh lime juice
 - 1+1/2 tablespoons soy sauce
 - 1/3 to 1/2 teaspoon chilli flakes

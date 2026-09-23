@@ -12,6 +12,7 @@ Vegan: true
 tags:
   - soup
   - untried
+  - italian
   - todo
 ---
 ![[Minestrone Soup.png]]
