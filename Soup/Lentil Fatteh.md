@@ -41,7 +41,7 @@ tags:
 
 ## Tasha (make twice, once minced, once sliced)
 
-- 2-3 Tbsp butter or oil
+- 2-3 Tbsp vegan butter or oil
 - 4 Cloves Garlic
 - 1/3 Cup White Vinegar
 
@@ -60,7 +60,7 @@ tags:
 3. Bring to a boil, then remove the tomatoes and peel their skin. Turn the heat to medium and cover with a lid
 4. Cook for 30-40 minutes until the carrots are cooked through, then blend until smooth
 5. Add the salt, pepper, and spices, and simmer until it reaches a lightly thick texture
-6. Make the Tasha by melting the butter, then adding the garlic and frying for about 30 seconds. Add the vinegar and bring to a boil then pour into the soup
+6. Make the Tasha by melting the vegan butter (or heating the oil), then adding the garlic and frying for about 30 seconds. Add the vinegar and bring to a boil then pour into the soup
 7. You can serve it as soup immediately
 
 ## To make the lentil fatteh

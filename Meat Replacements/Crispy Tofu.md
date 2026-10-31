@@ -26,7 +26,7 @@ tags:
 
 - 1/4 cup soy sauce
 - 1/4 cup water
-- 2 teaspoons honey
+- 2 teaspoons golden syrup (or any syrup/sugar; it mainly aids browning)
 - 1 1/2 teaspoons sambal oelek, (if you like it less spicy, stick with 1 teaspoon)
 - 1 teaspoon garlic paste, (see notes)
 - 1/2 teaspoon rice wine vinegar

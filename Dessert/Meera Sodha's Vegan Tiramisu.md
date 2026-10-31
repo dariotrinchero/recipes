@@ -49,5 +49,4 @@ tags:
 
 # Notes
 
-- For a non-vegan version, see [[B’s Tiramisu]].
 - #todo Compare this with the vegan tiramisu from [The Banana Diaries](https://thebananadiaries.com/vegan-tiramisu/), which actually makes lady fingers.

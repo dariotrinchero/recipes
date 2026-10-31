@@ -29,7 +29,7 @@ tags:
 - 2 tablespoons roasted sesame seeds
 - 1 tablespoon lime juice
 - 1 teaspoon toasted sesame oil
-- 1 teaspoon sweetener, like honey, maple syrup, or coconut sugar
+- 1 teaspoon sweetener, like golden syrup, maple syrup, or coconut sugar
 - 1 teaspoon chili crisp or chili flakes, add more or less to taste
 
 # Method

@@ -11,7 +11,7 @@ Meal type:
 Servings: 9 tacos
 Unusual Ingredients:
   - fresh parsley
-Vegan: false
+Vegan: true
 tags:
   - wrap
   - mexican
@@ -25,7 +25,7 @@ tags:
 ## For the butter bean & yogurt base
 
 - ~400g tin of butter beans, drained
-- ~1/2 cup yogurt
+- ~1/2 cup unsweetened plain plant yogurt (soy or coconut; thick/Greek-style if available)
 - olive oil
 - lemon juice
 - 1tsp ground cumin

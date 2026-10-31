@@ -31,4 +31,4 @@ tags:
 
 # Notes
 
-- Great alternative to [[Mayonnaise (Hellmann’s Copycat)]]; the texture & flavour is similar.
+- None

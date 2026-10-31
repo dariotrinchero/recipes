@@ -45,7 +45,7 @@ tags:
 7. Slice each roll of filled dough into 6 pieces.
 8. Assemble the pieces next to each other (touching) on a lightly oiled baking tray.
 9. Bake for around 20-30min or until lightly golden brown.
-10. Optionally brush the baked bread with garlic butter and sprinkle with dried herbs.
+10. Optionally brush the baked bread with vegan garlic butter and sprinkle with dried herbs.
 
 # Notes
 

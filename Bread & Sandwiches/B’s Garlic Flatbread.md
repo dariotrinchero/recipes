@@ -13,7 +13,7 @@ tags:
 ---
 # Ingredients
 
-- 1 tbsp honey
+- 1 tbsp golden syrup
 - 400ml lukewarm water
 - sachet (10g) instant yeast
 - 500g bread flour

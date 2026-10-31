@@ -22,15 +22,15 @@ tags:
 - 1/3 cup coffee liqueur
 - 1tsp vanilla extract
 - ~455g silken tofu, drained
-- 1tbsp honey or syrup
+- 1tbsp golden syrup (or other syrup)
 - 1 (~22cm) prepared chocolate wafer crust, store-bought is fine
 
 # Method
 
 1. Melt the chocolate chips, liqueur and vanilla in a double boiler, stirring constantly.
-2. Combine the chocolate mixture, tofu, and honey/syrup in a blender and blend until smooth.
+2. Combine the chocolate mixture, tofu, and syrup in a blender and blend until smooth.
 3. Pour the filling into the crust and refrigerate until the filling sets firm, ~2h.
 
 # Notes
 
-- For a (much more complicated) non-vegan decadent chocolate dessert, see [[Chocolate Mousse (Cake)]].
+- None

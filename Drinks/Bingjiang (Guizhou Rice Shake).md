@@ -25,8 +25,8 @@ tags:
 - Sugar, 1.5 tbsp
 
 **Variant 1: Cucumber & milk bingjiang**
-- Milk, 60g
-- Milk powder (奶粉), 1 tbsp
+- Oat milk (or coconut milk), 60g
+- Coconut milk powder (or oat milk powder), 1 tbsp
 - Cucumber, 60g, peeled and chopped
 
 **Variant 2: Mango bingjiang**

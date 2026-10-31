@@ -20,7 +20,7 @@ tags:
 ## Master Recipe
 
 - ½ cup nut butter
-- ⅓ cup syrup (honey works best for *clump formation*, but the variations below are numerous)
+- ⅓ cup syrup (golden syrup is a good choice for *clump formation*, but the variations below are numerous)
 - 1 tsp extract (almond, vanilla, etc)
 - ¼ cup seeds
 - 2 cups rolled oats
@@ -30,7 +30,7 @@ tags:
 ## Variation: almond-lover
 
 - ½ cup almond butter
-- ⅓ cup honey or agave
+- ⅓ cup golden syrup or agave
 - 1 tsp almond extract
 - ¼ cup chia seeds
 - 2 cups rolled oats
@@ -77,5 +77,5 @@ tags:
 
 # Notes
 
-- Using honey as the sweetener works best for clumping.
-- One can also fold a frothed egg white into the other ingredients before baking to increase cluster formation to taste.
+- A thick, sticky syrup like golden syrup works best for clumping.
+- One can also fold some frothed aquafaba into the other ingredients before baking to increase cluster formation to taste.

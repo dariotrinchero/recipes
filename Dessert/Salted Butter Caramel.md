@@ -9,7 +9,8 @@ Meal type:
   - spread
 Servings: 1 large jar
 Unusual Ingredients:
-Vegan: false
+  - vegan heavy cream
+Vegan: true
 tags:
   - dessert
   - sauce
@@ -21,20 +22,24 @@ tags:
 
 - 300g granulated sugar
 - 3 Tbsp water
-- 240g butter, cut into small pieces
-- 5g salt
-- 200g cream (room temperature)
+- 240g vegan block butter (a firm block, not a tub spread; see Notes), cut into small pieces
+- 5g salt (reduce if your vegan butter is salted; taste at the end)
+- 200g vegan heavy/whipping cream, soy- or oat-based (room temperature)
 
 # Method
 
 1. Place the sugar and water in a saucepan, and cook on low heat until it turns golden brown. Only stir as much as needed (see note below) or your sugar will crystallise. You want a golden caramel - not too dark, or it will taste bitter.
-2. Add the butter little by little while gently stirring with a spoon. (Be careful! The mixture is very hot; it sizzles and might splatter.) Add the salt and cook while stirring constantly until all the butter is incorporated. (The fat and sugar will come together as an emulsion).
-3. Remove the saucepan from the heat, and add the cream. (Careful again, this might splatter as well!) Mix until well combined. The mixture is now still liquid but will get firmer and spreadable when colder.
+2. Add the vegan butter little by little while gently stirring with a spoon. (Be careful! The mixture is very hot; it sizzles and might splatter.) Add the salt and cook while stirring constantly until all the butter is incorporated. (The fat and sugar will come together as an emulsion).
+3. Remove the saucepan from the heat, and add the vegan cream. (Careful again, this might splatter as well!) Mix until well combined. The mixture is now still liquid but will get firmer and spreadable when colder. If it looks split (oily), see Notes.
 4. Pour into jars and let cool.
 
 # Notes
 
-- The spread should keep for at least three months in the refrigerator.
+- **Veganised hybrid (untested).** This keeps the original (Photisserie) method and ratios, which give a thick, spreadable caramel, but borrows the dairy swaps from [The Banana Diaries' vegan salted caramel sauce](https://thebananadiaries.com/vegan-caramel-sauce-recipe/): a soy- or oat-based vegan heavy cream rather than coconut cream (avoiding coconut flavour), plus vegan butter. That recipe is a thinner sauce with far less butter; refer to it if a pourable caramel is wanted.
+- Use a firm vegan **block** butter; these set firmer in the fridge than tub spreads, which helps get the thick, spreadable texture. Avoid coconut-oil-heavy brands if you don't want a coconut note.
+- **Adjusting texture**: If too thin once chilled, return to the pan and simmer gently for a few minutes to reduce. If too firm, whisk in a splash of warm vegan cream. Full-fat coconut cream also works in place of the vegan cream, at the cost of some coconut flavour.
+- **If it splits**: vegan butters can emulsify less readily than dairy. Whisk vigorously off the heat, add a splash of warm vegan cream, or blitz briefly with a stick blender.
+- The dairy version keeps for at least three months in the refrigerator; assume a few weeks for this version until tested.
 - **A few notes on cooking the sugar**:
     1. When you cook your sugar, stir as little as possible. It's actually enough to just rotate the pan a bit.
     2. Cook it until you get a golden brown colour (about 5 minutes on the highest temperature); if you have a thermometer, 190° C is perfect, but don't worry - the range is not too small; a golden brown colour is as good as a lightly golden brown one; just don't burn it.

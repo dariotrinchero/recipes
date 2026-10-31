@@ -34,7 +34,7 @@ tags:
 - 2 blocks tofu, pressed & sliced into rectangles
 - 1/8 cup oil
 - 1/8 cup soy sauce
-- drizzle of honey
+- drizzle of golden syrup
 - salt, pepper, & MSG to season
 - barbecue sauce
 
@@ -47,7 +47,7 @@ tags:
 
 # Method
 
-1. Preheat the oven to 200C, grill. Also get the tofu marinading in the oil, soy sauce, & honey.
+1. Preheat the oven to 200C, grill. Also get the tofu marinading in the oil, soy sauce, & golden syrup.
 2. Lightly brush the vegetable slices with oil, and get these roasting along with the garlic head, red pepper, & chilli.
 3. While the vegetables roast, fry the tofu in a nonstick pan. Pour in the excess marinade, and season. Once browned, add some BBQ sauce to taste, and fry until sticky and evenly coated.
 4. Warm the rolls in the oven once the vegetables all come out.

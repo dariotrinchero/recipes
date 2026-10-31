@@ -17,7 +17,7 @@ tags:
 # Ingredients
 
 - 1 cup rajma (dry kidney beans or 2 – 15 Oz canned beans (3 cups))
-- 2 to 3 tablespoons ghee (or oil)
+- 2 to 3 tablespoons oil (or vegan butter)
 - 1 small bay leaf (optional)
 - ½ teaspoon cumin seeds (jeera, optional)
 - 1 cup fine chopped onions (or ¾ cup grated or cube, boil & puree)
@@ -33,7 +33,7 @@ tags:
 - ½ to 1 tablespoon kasuri methi (dried fenugreek leaves)
 - Few Ginger juliennes (optional)
 - 2 tablespoons coriander leaves (fine chopped)
-- 2 to 3 tablespoons heavy cream (Optional)
+- 2 to 3 tablespoons plant-based cooking cream or cashew cream (optional)
 # Method
 
 ## Beans
@@ -44,13 +44,13 @@ tags:
 
 ## Curry
 
-1. Heat ghee or oil in a pot. Add cumin seeds and bay leaf. When they begin to sizzle add the onions and green chilli.
+1. Heat oil in a pot. Add cumin seeds and bay leaf. When they begin to sizzle add the onions and green chilli.
 2. Saute on a medium heat until golden. Stir in the ginger garlic and saute for a minute, until aromatic.
 3. Pour the tomato puree & cook until the onion tomato mixture turns thick, for about 3 min.
 4. Stir in the spices – red chili powder, garam masala, coriander powder, cumin powder and turmeric. Saute for 2 to 3 minutes, until the masala begins to smell aromatic.
 5. Add the rajma along with the stock (rajma cooked water). Pour more hot water as required (about ½ to 1 cup, only as required) to make a gravy. (If using canned beans, drain the liquid from the can and rinse them before adding).
 6. Mix well and simmer for 10 to 15 mins, until slightly thick. To make the gravy thick, if you want mash a tbsp of the rajma and add back.
-7. Taste test and add more salt, ¼ teaspoon garam masala if required and crushed kasuri methi. Optionally you may stir in cream and garnish with coriander leaves and ginger juliennes.
+7. Taste test and add more salt, ¼ teaspoon garam masala if required and crushed kasuri methi. Optionally you may stir in plant cream and garnish with coriander leaves and ginger juliennes.
 8. Squeeze some lemon juice before serving. Serve rajma with chawal (rice).
 
 # Notes

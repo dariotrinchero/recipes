@@ -40,7 +40,7 @@ tags:
 
 - ~1/2 cup olive oil (or a bit under)
 - 3 tbsp tahini (or peanut butter)
-- 1 tbsp maple syrup (or syrup or honey)
+- 1 tbsp maple syrup (or golden syrup)
 - Juice of 1-2 limes
 - 1 garlic clove, minced
 - Dash of soy sauce, to taste

@@ -10,7 +10,7 @@ Unusual Ingredients:
   - black lentils
   - kidney beans
   - kasuri methi
-Vegan: false
+Vegan: true
 tags:
   - curry
   - todo
@@ -22,8 +22,8 @@ tags:
 - 1 cup whole black lentil (200 grams black gram – whole urad dal)
 - ¼ cup rajma (red kidney beans) (optional)
 - 4 cups water for pressure cooking – more for pot
-- 3 tablespoons unsalted butter (divided – 1 ½ tbsp + 1 ½ tbsp)
-- 1 tablespoon ghee
+- 3 tablespoons vegan butter (divided – 1 ½ tbsp + 1 ½ tbsp)
+- 1 tablespoon neutral oil (in place of ghee)
 - 1 medium onion finely chopped (65 grams)
 - 1 tablespoon ginger garlic paste
 - 1 cup tomato puree (210 grams)
@@ -32,7 +32,7 @@ tags:
 - 1 teaspoon garam masala (use flavorful one)
 - 2 cups water (preferably boiling hot)
 - ½ teaspoon kasuri methi (dried fenugreek leaves) (optional)
-- ¼ cup cream (more for garnish, heavy cream, whipping cream)
+- ¼ cup cashew cream (more for garnish; ~30g cashews blended smooth with ~¼ cup water), or plant-based cooking cream
 - 1 bay leaf (optional)
 - 2 green cardamoms (optional)
 - 1 black cardamom (optional)
@@ -43,19 +43,19 @@ tags:
 2. Later drain the water and rinse them well.
 3. Pour 4 cups fresh water and pressure cook for 10 whistles on a medium heat. You can also cook in a pot until soft and tender adding more water as needed. If cooking in instant pot, pressure cook on high pressure for 20 mins.
 4. Both urad dal and rajma must cook to very soft. When mashed with a spoon the dal and rajma must be soft and get mashed well easily. If not then pour another half cup hot water and continue to cook for another 3 to 4 whistles on a medium heat.
-5. Heat a heavy bottom pot with butter & ghee. If using whole spices, add them and saute for half a minute. Then add onions and fry until they turn golden.
+5. Heat a heavy bottom pot with 1 ½ tbsp vegan butter & the oil. If using whole spices, add them and saute for half a minute. Then add onions and fry until they turn golden.
 6. Stir in ginger garlic paste and saute for 1 minute until the raw smell goes away. Then transfer tomato puree and cook for 3 to 4 minutes until thick. Add salt, chilli powder & garam masala. Saute well until the masala smells good and turns thick.
 9. Mash the cooked urad dal slightly and pour it along with the stock. Pour another 1 cup hot boiling water & mix.
 10. Cook on a low flame until the dal thickens stirring often in between to prevent burning the bottom. After 60 mins, the dal thickens.
 11. Add another ½ to 1 cup hot boiling water and continue to cook until thick. This takes another 30 mins. Totally cook for about 90 mins from the time you added the cooked dal to the pot.
-12. Then add kasuri methi and pour cream. Stir and cook again for 6 to 8 mins until it becomes thick and creamy.
-13. Taste and add more salt if needed. Add butter and mix well.
+12. Then add kasuri methi and pour cashew cream. Stir and cook again for 6 to 8 mins until it becomes thick and creamy.
+13. Taste and add more salt if needed. Add remaining vegan butter and mix well.
 
 ## Dhungar – Smoking (optional)
 
 1. Place a small piece of foil or a tall steel cup on the dal makhani. Hold 1 to 2 inch piece of natural wood charcoal with a tong and burn it on direct fire until red hot. Then place it on the foil kept over dal or in the steel cup.
-2. Quickly pour ¼ tsp ghee on the hot coal. Immediately cover the pot and allow to smoke for 3 to 4 mins. For stronger flavor, add another ¼ tsp ghee on the coal and repeat the smoking.
-3. Garnish dal makhani with butter or cream & serve with fluffy Basmati rice or naan.
+2. Quickly pour ¼ tsp oil (or vegan butter) on the hot coal. Immediately cover the pot and allow to smoke for 3 to 4 mins. For stronger flavor, add another ¼ tsp oil on the coal and repeat the smoking.
+3. Garnish dal makhani with vegan butter or cashew cream & serve with fluffy Basmati rice or naan.
 
 # Notes
 

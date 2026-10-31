@@ -9,9 +9,8 @@ Meal type:
 Servings: 10 flatbreads (see Notes)
 Unusual Ingredients:
   - za'atar
-  - feta
-  - mozzarella
-Vegan: false
+  - vegan mozzarella
+Vegan: true
 tags:
   - pizza
   - bread
@@ -31,15 +30,14 @@ tags:
 
 ## For the cheese topping
 
-- 340 grams fresh mozzarella or replace with Akawi cheese
-- 200 grams feta cheese or replace with Akawi cheese
+- ~540 grams set [[Vegan Mozzarella]], or a good shop-bought vegan cheese (Fauxmage is particularly tasty) (replaces the original mozzarella & feta; see Notes)
 - 1.5 tablespoons nigella seeds (also known as Kalonji)
 
 ## For the za'atar topping
 
 - ¼ cup olive oil extra virgin
 - 7 tablespoons Za'atar (found at middle eastern stores)
-- Optionally pair this topping with a fried egg & tomato-harissa puree on the side (see Notes)
+- Optionally pair this topping with a tomato-harissa puree on the side (see Notes)
 
 # Method
 
@@ -54,7 +52,7 @@ tags:
 ## For the toppings
 
 1. Mix together the Za'atar and the olive oil in a bowl and set aside.
-2. Mix together the mozzarella cheese and feta cheese and set aside.
+2. Tear or grate the vegan mozzarella and set aside.
 3. Once the dough is ready, separate into 10 equal-sized balls. Using a floured rolling pin and a floured surface, flatten each dough ball to a very thin medium sized flatbread. The dough will rise slightly in the oven so it's important to make them thin
 4. Transfer the dough rounds to a floured baking sheet. You may need to use 2-3 baking sheets to fit them all, or wait for some to bake then add the rest
 5. Spread the Za'atar mixture on 5 of the manakish and make sure to cover the entire surface, leaving a ¼ inch border
@@ -67,4 +65,6 @@ tags:
 # Notes
 
 - This recipe makes roughly 10 medium sized manakish, and the topping amounts yield **5 of each type**. If you want to make only cheese or only za'atar, then double the topping quantities.
-- At the Lebanese Bakery in Kenilworth, this is served with a cheese **and** za'atar topping, together with a fried egg on top, and a side sauce comprising a mixture of tomato paste and harissa. This is phenomenal.
+- At the Lebanese Bakery in Kenilworth, this is served with a cheese **and** za'atar topping, and a side sauce comprising a mixture of tomato paste and harissa. This is phenomenal.
+- The original cheese topping was a mix of mozzarella and feta. The feta contributed salty tang, so consider crumbling in some shop-bought vegan feta, or finishing the cheese manakish with a pinch of flaky salt and a squeeze of lemon.
+- One batch of [[Vegan Mozzarella]] makes ~700g, which is enough for the cheese topping.

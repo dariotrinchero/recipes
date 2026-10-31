@@ -49,7 +49,7 @@ tags:
 
 - 1½ Tbsp olive oil
 - 4 cups vegetable broth
-- 1 Tbsp honey (or sugar)
+- 1 Tbsp golden syrup (or sugar)
 - 1 Tbsp soy sauce
 - 1 Tbsp tomato paste
 
@@ -65,7 +65,7 @@ tags:
 
 1. Fry onion wedges in olive oil. Allow them to develop some colour. Pour off excess oil & set aside.
 2. Add garlic & ginger paste. Fry a while longer, then add stock.
-3. Add tomato paste, grated apple, honey (or sugar), soy sauce, and the chopped carrots and potatoes.
+3. Add tomato paste, grated apple, golden syrup (or sugar), soy sauce, and the chopped carrots and potatoes.
 4. Boil, covered, until vegetables are soft.
 5. Stir in curry roux, a little at a time, to taste. Adjust seasoning as needed.
 6. Serve over rice, or with bread.

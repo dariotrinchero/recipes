@@ -29,7 +29,7 @@ tags:
     - Oyster sauce, (蚝油), 1 tsp;
     - Sugar, ¼ tsp;
     - Salt, 1/8 tsp;
-    - Chicken bouillon powder (鸡粉), 1/8 tsp
+    - Vegan chicken-style bouillon powder, 1/8 tsp (Chinese 鸡粉 often contains real chicken; check the label, or use extra MSG)
 - Stock, 600mL
 - Sliced scallions, to top
 

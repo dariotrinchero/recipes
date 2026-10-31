@@ -7,11 +7,10 @@ Meal type:
   - pizza
 Servings: "4"
 Unusual Ingredients:
-  - ricotta
   - fresh basil
   - maple syrup
-  - mozzarella
-Vegan: false
+  - vegan mozzarella
+Vegan: true
 tags:
   - pizza
   - untried
@@ -47,16 +46,17 @@ tags:
 
 - 1 uncooked [[Pizza al Taglio Base]]
 - 20ml olive oil
-- 250g firm mozzarella, drained
-- 200g ricotta
+- 250g set [[Vegan Mozzarella]], or a good shop-bought vegan cheese (Fauxmage is particularly tasty)
+- ~200g unset [[Vegan Mozzarella]] sauce (in place of ricotta; see Notes)
 - 15g basil leaves
 
 # Method
 
 1. First make the sauce. Put a small saucepan on a medium-high heat and, once hot, add the oil, garlic, chilli flakes and a good twist of black pepper, and sizzle for a minute, stirring, until fragrant and starting to colour. Add the tomatoes, sugar, vinegar and a quarter-teaspoon of salt, turn down the heat to medium and cook for 20 minutes, stirring regularly and crushing the tomatoes with the spoon as you do so, until the sauce thickens slightly and turns a deep red. Take off the heat and set aside.
 2. Heat the oven to 230C (210C fan)/460F/gas 8½. Put all the ingredients for the mushrooms in a medium bowl with an eighth of a teaspoon of salt and a good twist of black pepper, and mix well. Spread out the mushroom mix on a large baking tray lined with greaseproof paper, then roast for 12 minutes, turning the mushrooms over halfway. Take the tray out the oven and set aside to cool.
-3. When you’re ready to bake the pizza, heat the oven to its highest setting as in the previous recipes. To assemble the pizza, spread 20ml oil over the uncooked pizza base, then spoon the tomato sauce evenly over the top. Tear up the mozzarella and scatter evenly over the tomato sauce, then scatter on the mushrooms. Bake for 18-20 minutes as in the previous recipes, until the bottom and edges are crisp, remove from the oven, then dollop and smear the ricotta on top of the pizza. Season with an eighth of a teaspoon of salt and a few twists of black pepper, scatter over the basil leaves and serve.
+3. When you’re ready to bake the pizza, heat the oven to its highest setting as in the previous recipes. To assemble the pizza, spread 20ml oil over the uncooked pizza base, then spoon the tomato sauce evenly over the top. Tear up the set vegan mozzarella and scatter evenly over the tomato sauce, then scatter on the mushrooms. Bake for 18-20 minutes as in the previous recipes, until the bottom and edges are crisp, remove from the oven, then dollop and smear the vegan mozzarella sauce on top of the pizza. Season with an eighth of a teaspoon of salt and a few twists of black pepper, scatter over the basil leaves and serve.
 
 # Notes
 
-- None
+- One batch of [[Vegan Mozzarella]] (~700g) covers both cheeses: set ~250g of it in a glass as usual, and keep ~200g aside after step 4 of that recipe as the pourable sauce, which stands in for the dolloped ricotta. Let the sauce cool slightly, so it's thick enough to dollop.
+- Alternatively, use a shop-bought vegan ricotta, or a quick tofu/cashew ricotta (firm tofu or soaked cashews blended with lemon, nutritional yeast, salt & a little olive oil).

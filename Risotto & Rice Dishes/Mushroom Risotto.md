@@ -9,7 +9,7 @@ Meal type:
 Servings: "6"
 Unusual Ingredients:
   - exotic mushrooms
-  - parmesan
+  - nutritional yeast
   - wine
   - chives
 Vegan: true
@@ -27,9 +27,9 @@ tags:
 - 2 medium shallots, diced
 - 1 ½ cups Arborio rice
 - ½ cup dry white wine
-- 4 tablespoons (vegan) butter
+- 4 tablespoons vegan butter
 - 3 tablespoons finely chopped chives
-- ⅓ cup freshly grated Parmesan cheese (substitute with nutritional yeast for vegan version, but also see [[#Notes]])
+- Nutritional yeast, to taste (in place of Parmesan; also see [[#Notes]])
 - sea salt and freshly ground black pepper to taste
 
 # Method
@@ -39,10 +39,10 @@ tags:
 3. Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.
 4. Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed.
 5. Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.
-6. Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.
+6. Remove from heat. Stir in reserved mushrooms and their liquid, vegan butter, chives, and nutritional yeast.
 7. Season with salt and pepper and serve immediately.
 
 # Notes
 
 - Add some exotic mushrooms (shimeji, enoki, etc) to the final product for aesthetics.
-- For the vegan version, I think the mushrooms are better cooked as in [[Vegan Creamy Mushrooms (for Pasta, Gnocchi, or Risotto)]], as this helps add flavours otherwise lacking due to the omission of cheese.
+- I think the mushrooms are better cooked as in [[Vegan Creamy Mushrooms (for Pasta, Gnocchi, or Risotto)]], as this helps add flavours otherwise lacking due to the omission of cheese.

@@ -11,7 +11,8 @@ Meal type:
 Servings: 4-6
 Unusual Ingredients:
   - za'atar
-Vegan: false
+  - vegan cream cheese
+Vegan: true
 tags:
   - wrap
   - mexican
@@ -21,7 +22,7 @@ tags:
 - 3 green peppers, seeded & sliced into large chunks
 - 2 jalapeños
 - 1 red onion, thinly sliced
-- 1 230g tub cream cheese
+- 1 230g tub vegan cream cheese (Fauxmage's is particularly good)
 - za’atar
 - ~3/4 tsp celery seeds
 - garlic powder
@@ -36,10 +37,10 @@ tags:
 # Method
 
 1. Decapitate the garlic, lightly oil, & wrap in foil. Place the green peppers, garlic, chillies, and sweet potatoes in the oven (with fan) at 220°C.
-2. Meanwhile, allow cream cheese to come to room temperature; add olive oil until pliable. Mix in a good amount of za’atar, some garlic powder, salt.
+2. Meanwhile, allow vegan cream cheese to come to room temperature; add olive oil until pliable. Mix in a good amount of za’atar, some garlic powder, salt.
 3. When peppers & chillies are blackened, peel peppers, & leave to cool. Add peppers, parsley, chillies, some olive oil, salt, black pepper, garlic powder, & celery seeds into hand food processor, & blitz into a salsa. Add lemon juice, olive oil, & salt and pepper to taste.
 4. Remove sweet potatoes when blackened, & roughly chop.
-5. Toast each taco shell, then spread with cream cheese, add sweet potato, lettuce, red onion, and drizzle in the salsa.
+5. Toast each taco shell, then spread with the za'atar cream cheese, add sweet potato, lettuce, red onion, and drizzle in the salsa.
 
 # Notes
 

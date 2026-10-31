@@ -9,9 +9,12 @@ Meal type:
 Servings: 1 loaf (~10 slices)
 Unusual Ingredients:
   - walnuts
-  - cream cheese
-Vegan: false
+  - vegan cream cheese
+  - ground flaxseed
+Vegan: true
 tags:
+  - untried
+  - todo
   - dessert
   - cake
 ---
@@ -20,7 +23,7 @@ tags:
 ## For the cake
 
 - 200g soft brown sugar
-- 2 eggs
+- 2 flax eggs (2 Tbsp ground flaxseed mixed with 5 Tbsp water; rest 10 minutes until gloopy)
 - 140ml vegetable oil
 - 300g carrots, grated
 - A small bag of walnuts, roughly chopped (save some for topping)
@@ -36,8 +39,8 @@ tags:
 
 ## For the icing
 
-- 40g butter
-- 120g full fat cream cheese, room temp
+- 40g vegan block butter
+- 120g vegan cream cheese (Fauxmage's is particularly good), room temp
 - 80g icing sugar
 - 1 lime, zested and juiced
 - 1 teaspoon vanilla essence/extract
@@ -46,13 +49,13 @@ tags:
 # Method
 
 1. Preheat oven to 150 degrees Celsius.
-2. Cream your brown sugar and egg together before slowly whisking in the vegetable oil.
+2. Whisk your brown sugar and flax eggs together before slowly whisking in the vegetable oil.
 3. Add your grates carrot, orange zest, vanilla and chopped nuts and stir in.
 4. Remove the seeds from the cardamom pods and grind in a pestle and mortar or spice grinder. Add to the mixture along with the flour, bicarbonate of soda, salt, nutmeg, cinnamon and powdered ginger (spice mix is variable - add as much/little as you want!).
 5. Pour into a loaf pan and bake in the oven for ~45 minutes or until a skewer comes out clean. Rest in the tin for 10 minutes before placing on a wire rack to cool completely.
-6. For the icing, cream the butter and then whip in the cream cheese. Sieve in the icing sugar, and add the lime juice, zest and vanilla.
+6. For the icing, cream the vegan butter and then whip in the vegan cream cheese. Sieve in the icing sugar, and add the lime juice, zest and vanilla.
 7. Let the icing mix set in the fridge for 30 minutes before spreading liberally over the cake and sprinkling with the remaining nuts.
 
 # Notes
 
-- None
+- Vegan cream cheese icing tends to be softer than dairy; if it's too loose, add more icing sugar or chill it for longer before spreading.
